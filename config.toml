@@ -8,7 +8,6 @@ theme = "mainroad"
 
 [Author] # Used in authorbox
   name = "Nico Espinosa Dice"
-  avatar = "images/headshot.png"
 
 [Params]
   description = "Nico Espinosa Dice" # Site description. Used in meta description
@@ -20,7 +19,7 @@ theme = "mainroad"
   toc = false # Enable Table of Contents
   post_navigation = false # Show post navigation at bottom of pages if true
   post_meta = ["date", "categories", "translations"] # Order of post meta information
-  mainSections = ["post", "blog", "news", "about", "other"] # Specify section pages to show on home page and the "Recent articles" widget
+  mainSections = ["post", "about", "projects", "other"] # Specify section pages to show on home page and the "Recent articles" widget
   dateformat = "01-02-2006" # Change the format of dates
   # mathjax = true # Enable MathJax
   # mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path

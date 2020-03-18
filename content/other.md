@@ -3,6 +3,8 @@ title: "Other"
 draft: false
 menu: main
 ---
+A partially ordered collection of pieces of writing, links documenting previous projects and experiences, and other notes.
+
 ## Writing
 
 ### [Make Yourself Clear](https://www.makeyourselfclear.xyz/)
