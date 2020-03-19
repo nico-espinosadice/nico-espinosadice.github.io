@@ -3,6 +3,10 @@ title: "Miscellaneous"
 draft: false
 menu: main
 weight: 3
+resources:
+- src: "gallery/*.jpg"
+  name: gallery-:counter
+  title: gallery-title-:counter
 ---
 A partially ordered collection of pieces of writing, links documenting previous projects and experiences, and other notes.
 

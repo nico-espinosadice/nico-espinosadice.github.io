@@ -7,9 +7,9 @@ weight: 1
 
 Hello! I am currently a sophomore studying mathematics and computer science at Harvey Mudd College. My interests center around understanding the mathematics behind machine learning algorithms, as well as applications of machine learning models towards fields including robotics and autonomous vehicles, astronomy and space exploration, medical imaging, and finance and trading.
 
-Listed below are some of the clubs and activities I have been apart of.
+<!-- A list of the mathematics and computer science courses I have taken is available [here](/img/Coursework.pdf). -->
 
-Check out the [Miscellaneous](/miscellaneous) page for more.
+Listed below are some of the clubs and activities I have been a part of. Check out the [Miscellaneous](/miscellaneous) page for other information.
 
 ## [Harvey Mudd College](https://www.hmc.edu/)
 *2018 - Present*  
