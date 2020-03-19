@@ -1,7 +1,8 @@
 ---
-title: "Other"
+title: "Miscellaneous"
 draft: false
 menu: main
+weight: 3
 ---
 A partially ordered collection of pieces of writing, links documenting previous projects and experiences, and other notes.
 

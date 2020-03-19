@@ -2,6 +2,7 @@
 title: "Projects"
 draft: false
 menu: main
+weight: 2
 ---
 
 Descriptions and links for past and present projects.

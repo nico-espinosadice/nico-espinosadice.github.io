@@ -2,9 +2,14 @@
 title: "About"
 draft: false
 menu: main
+weight: 1
 ---
 
-Currently pursuing Bachelor of Science in Mathematics and Computer Science at Harvey Mudd College. Passionate about understanding the mathematics behind machine learning algorithms, specifically deep neural networks, and applications of machine learning models towards robotics and autonomous vehicles, finance and trading, astronomy and space exploration, and medical imaging.
+Hello! I am currently a sophomore studying mathematics and computer science at Harvey Mudd College. My interests center around understanding the mathematics behind machine learning algorithms, as well as applications of machine learning models towards fields including robotics and autonomous vehicles, astronomy and space exploration, medical imaging, and finance and trading.
+
+Listed below are some of the clubs and activities I have been apart of.
+
+Check out the [Miscellaneous](/miscellaneous) page for more.
 
 ## [Harvey Mudd College](https://www.hmc.edu/)
 *2018 - Present*  

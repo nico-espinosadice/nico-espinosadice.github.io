@@ -10,7 +10,7 @@ theme = "mainroad"
   name = "Nico Espinosa Dice"
 
 [Params]
-  description = "Nico Espinosa Dice" # Site description. Used in meta description
+  description = "Nico Espinosa Dice's personal website." # Site description. Used in meta description
   copyright = "Nico Espinosa Dice" # Footer copyright holder, otherwise will use site title
   opengraph = false # Enable OpenGraph if true
   twitter_cards = false # Enable Twitter Cards if true
@@ -19,7 +19,7 @@ theme = "mainroad"
   toc = false # Enable Table of Contents
   post_navigation = false # Show post navigation at bottom of pages if true
   post_meta = ["date", "categories", "translations"] # Order of post meta information
-  mainSections = ["post", "about", "projects", "other"] # Specify section pages to show on home page and the "Recent articles" widget
+  mainSections = ["post", "about", "projects", "miscellaneous"] # Specify section pages to show on home page and the "Recent articles" widget
   dateformat = "01-02-2006" # Change the format of dates
   # mathjax = true # Enable MathJax
   # mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
