@@ -8,7 +8,7 @@ resources:
   name: gallery-:counter
   title: gallery-title-:counter
 ---
-A partially ordered collection of pieces of writing, links documenting previous projects and experiences, and other notes.
+A partially ordered collection of pieces of [writing](#writing), links documenting previous projects and [experiences](#miscellaneous), and [photos](/photos).
 
 ## Writing
 
@@ -16,7 +16,7 @@ A partially ordered collection of pieces of writing, links documenting previous 
 **By Dr. Reshan Richards and Stephen J. Valentine**  
 *April 29, 2019*  
 [Excerpt](https://books.google.com/books?id=a6iODwAAQBAJ&pg=PA82&lpg=PA82&dq=make+yourself+clear+nico+espinosa+dice&source=bl&ots=6cX6hF4ONa&sig=ACfU3U3qcoEjfHpikMfLmxz399e63e6L_Q&hl=en&sa=X&ved=2ahUKEwjYr_7s76ToAhW_lnIEHfgZA58Q6AEwAHoECAoQAQ#v=onepage&q=make%20yourself%20clear%20nico%20espinosa%20dice&f=false)  
-![](/img/makeyourselfclear.jpeg)
+[![](/img/makeyourselfclear.jpeg)](https://www.amazon.com/Make-Yourself-Clear-Understand-Everything/dp/111955859X)
 
 ### [Analysis of American Military Intervention in Venezuela](/img/American_Intervention_Venezuela.pdf)
 *May 2019*
@@ -49,3 +49,6 @@ A partially ordered collection of pieces of writing, links documenting previous 
 
 [Montclair Kimberley Academy Takes 3rd Place in Essex County Math Contest](https://www.facebook.com/MontclairKimberley/posts/mka-came-in-3rd-place-overall-at-the-essex-county-math-league-that-was-held-at-c/10153532473951128/)
 *May 18, 2018*
+
+## Photos
+A collection of photos available [here](/photos).
