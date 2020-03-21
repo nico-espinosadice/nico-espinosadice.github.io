@@ -50,5 +50,4 @@ A partially ordered collection of pieces of [writing](#writing), links documenti
 [Montclair Kimberley Academy Takes 3rd Place in Essex County Math Contest](https://www.facebook.com/MontclairKimberley/posts/mka-came-in-3rd-place-overall-at-the-essex-county-math-league-that-was-held-at-c/10153532473951128/)
 *May 18, 2018*
 
-## Photos
-A collection of photos available [here](/photos).
+## [Photos](/photos)

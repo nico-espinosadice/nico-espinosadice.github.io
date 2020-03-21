@@ -16,7 +16,7 @@ Listed below are some of the clubs and activities I have been a part of. Check o
 Honor Board (Judiciary Board Chair), Data Science Club (Co-Founder and Co-President), Mudd’s Amateur Rocketry Club (Treasurer, HPR Level 1 Certified), Society of Professional Latinx in STEM (Public Outreach Director), Claremont Philosophers
 
 ### [Honor Board](https://www.hmc.edu/ashmc/honor-code/)
-**Judiciary Board Chair**  
+**Judiciary Board Chair (2020-2021)**  
 *2018 - Present*  
 Represent the Class of 2022 on Harvey Mudd’s Honor Board, the group responsible for matters concerning the Honor Code. Serve on judiciary and disciplinary hearings regarding possible violations of the Honor Code.
 
