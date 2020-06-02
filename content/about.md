@@ -5,11 +5,15 @@ menu: main
 weight: 1
 ---
 
-Hello! I am currently a sophomore studying mathematics and computer science at Harvey Mudd College. My interests center around understanding the mathematics behind machine learning algorithms, as well as applications of machine learning models towards fields including robotics and autonomous vehicles, astronomy and space exploration, medical imaging, and finance and trading.
+Hello! I am a rising junior studying mathematics and computer science at Harvey Mudd College. My interests center around theoretical machine learning, as well as applications of machine learning towards fields including robotics and autonomous vehicles, astronomy and space exploration, medical imaging, and finance and trading.
 
-<!-- A list of the mathematics and computer science courses I have taken is available [here](/img/Coursework.pdf). -->
+This summer (2020), I will be a researcher in the [AMISTAD Lab](https://www.cs.hmc.edu/~montanez/amistad.html) under [Professor George D. Montañez](https://www.cs.hmc.edu/~montanez/). Our team is currently working on developing a mathematical framework of abductive reasoning for use in machine learning applications.
 
-Listed below are some of the clubs and activities I have been a part of. Check out the [Miscellaneous](/miscellaneous) page for other information.
+A list of the mathematics and computer science courses I have taken is available [here](/img/EspinosaDice_Coursework.pdf).
+
+Listed below are some of the clubs and organizations I have been a part of. Check out the [Miscellaneous](/miscellaneous) page for other information.
+
+# Clubs and Organizations
 
 ## [Harvey Mudd College](https://www.hmc.edu/)
 *2018 - Present*  
@@ -18,6 +22,9 @@ Honor Board (Judiciary Board Chair), Data Science Club (Co-Founder and Co-Presid
 ### [Honor Board](https://www.hmc.edu/ashmc/honor-code/)
 **Judiciary Board Chair (2020-2021)**  
 *2018 - Present*  
+Lead Harvey Mudd College’s Honor Board, responsible for upholding Honor Code.
+Chair hearings regarding Honor Code violations and mediate settlements between students and faculty.
+
 Represent the Class of 2022 on Harvey Mudd’s Honor Board, the group responsible for matters concerning the Honor Code. Serve on judiciary and disciplinary hearings regarding possible violations of the Honor Code.
 
 ### [Uncommon Good](https://uncommongood.org/)

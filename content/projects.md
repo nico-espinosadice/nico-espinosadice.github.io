@@ -7,14 +7,26 @@ weight: 2
 
 Descriptions and links for past and present projects.
 
+### [Biometric Authentication Using SVMs](https://github.com/nico-espinosadice/biometric-authentication-svms)
+**Researcher**  
+*January 2020 - May 2020*  
+[Biometric_Authentication_SVMs.pdf](/img/Biometric_Authentication_SVMs.pdf)  
+For my final project in Math189R, I examined the use and performance of support vector machine (SVM) models in biometric authentication. Furthermore, I empirically examined the performance of varying kernel functions, including linear, polynomial, sigmoid, and radial basis functions.
+
+### [Sentiment Analysis of Covid-19 Related Tweets](https://github.com/nico-espinosadice/covid-tweets-analysis)
+**Researcher**  
+*March 2020 - May 2020*  
+[Sentiment_Analysis_Tweets.pdf](/img/Sentiment_Analysis_Tweets.pdf)  
+For my final project in Math189Z, I conducted sentiment analysis on Tweets regarding the Covid-19 pandemic using a Naive Bayes classifier. Through this project, I examined the relationship between the severity of the virus and its impact on the public's reaction to it, particularly on social media. In doing so, I hoped to develop an understanding of how the public's response – particularly the hysteria many felt as the pandemic approached their area – is correlated to the actual virus's spread.
+
 ### [Automated Trading System](https://github.com/nico-espinosadice/quant-trading-system/tree/nico-branch)
 **Researcher and Developer**  
-*2019 - Present*  
-This is an independent project I began to explore time series data. I decided to analyze stock market data, a type of time series data that is readily accessible. I built a recurrent neural network with long short-term memory (LSTM) architecture to predict changes in a company’s stock price based upon market history. I wrote code in Python and used the TensorFlow library to build the neural network. I then used the predictions of the neural network to trade stock through Alpaca, a stock brokerage, and its API. (Alpaca allows for “paper-money” trading: trading with fake money). I automated the trading of the stock using Bash scripting. Currently, I am working on optimizing the algorithm; as an unlicensed trader, there is a limit to the number of trades I can execute in a given time frame.
+*January 2019 - August 2019*  
+This is an independent project I began to explore time series data. I decided to analyze stock market data, a type of time series data that is readily accessible. I built a recurrent neural network with long short-term memory (LSTM) architecture to predict changes in a company’s stock price based upon market history. I wrote code in Python and used the TensorFlow library to build the neural network. I then used the predictions of the neural network to trade stock through Alpaca, a stock brokerage, and its API. (Alpaca allows for “paper-money” trading: trading with fake money). I automated the trading of the stock using Bash scripting.
 
 ### [MARS-I (Mudders Aspiring to Reach Space)](https://sites.google.com/g.hmc.edu/mars)
 **IMU Subsystem**  
-*2018 - Present*  
+*October 2018 - Present*  
 The goal of the MARS-I project is to design and build a rocket that will reach the Karman Line: 100 kilometers above the Earth, the edge of space. The project is entirely student-led.
 
 I work on the electronics and telemetry team. Our team is responsible for designing and building a robust parachute deployment, telemetry, and data logging system for the rocket. We aim to incorporate 6DOF tracking for the rocket, environmental sensors, a camera, and real-time telemetry over several radio links.
@@ -23,7 +35,7 @@ Within the electronics and telemetry team, I lead the IMU design subsystem. Our 
 
 ### [Regression Analysis of Housing Prices](https://github.com/nico-espinosadice/house-price-prediction)
 **Researcher and Developer**  
-*2017*  
+*June 2017 - August 2017*  
 [Housing_Prices_Analysis.pdf](/img/Housing_Prices_Analysis.pdf)  
 In the summer of 2017, I took General Assembly's data science course, taught in New York City. During the course, we learned how to build machine learning algorithms – including decision trees, random forest regression and classification models, K-nearest neighbors, and logistic regression. We used Python's Pandas and NumPy libraries for collecting and cleaning the data, and we used the Scikit-Learn library for implementing the models.
 

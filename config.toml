@@ -54,7 +54,7 @@ theme = "mainroad"
 # Custom social links
 [[Params.widgets.social.custom]]
   title = "Resume"
-  url = "/img/EspinosaDice_Resume2.pdf"
+  url = "/img/EspinosaDice_Resume.pdf"
 
 # [[Params.widgets.social.custom]]
 #   title = "Kaggle"
