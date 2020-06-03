@@ -13,13 +13,15 @@ A partially ordered collection of pieces of [writing](#writing), links documenti
 ## Writing
 
 ### [Make Yourself Clear](https://www.makeyourselfclear.xyz/)
-**By Dr. Reshan Richards and Stephen J. Valentine**  
+**By [Dr. Reshan Richards](https://www.constructivisttoolkit.com/2019/explain-everything-2020-hope) and [Stephen J. Valentine](https://refreshingwednesday.com/about/)**  
 *April 29, 2019*  
 [Excerpt](https://books.google.com/books?id=a6iODwAAQBAJ&pg=PA82&lpg=PA82&dq=make+yourself+clear+nico+espinosa+dice&source=bl&ots=6cX6hF4ONa&sig=ACfU3U3qcoEjfHpikMfLmxz399e63e6L_Q&hl=en&sa=X&ved=2ahUKEwjYr_7s76ToAhW_lnIEHfgZA58Q6AEwAHoECAoQAQ#v=onepage&q=make%20yourself%20clear%20nico%20espinosa%20dice&f=false)  
 [![](/img/makeyourselfclear.jpeg)](https://www.amazon.com/Make-Yourself-Clear-Understand-Everything/dp/111955859X)
 
 ### [Analysis of American Military Intervention in Venezuela](/img/American_Intervention_Venezuela.pdf)
-*May 2019*
+*May 2019*  
+[![](/img/American_Intervention_Cover.jpeg)](/img/American_Intervention_Venezuela.pdf)
+
 
 ## Miscellaneous
 [Commencement Speech - Montclair Kimberley Academy](t9jP3OcC7I8?start=1926)
