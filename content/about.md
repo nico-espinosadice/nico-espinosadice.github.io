@@ -54,9 +54,9 @@ Chair hearings regarding Honor Code violations and mediate settlements between s
 *2018 - Present*  
 Lead biweekly STEM tutoring sessions for high school students through [Uncommon Good](https://uncommongood.org/) and in partnership with Harvey Mudd College’s [Society of Professional Latinx in STEM](https://www.facebook.com/HarveyMuddSPLS/) (SPLS). Currently serve as SPLS’s Public Outreach Director and coordinate the tutoring sessions with Uncommon Good.
 
-### Impact Leadership Program
+<!-- ### Impact Leadership Program
 *2019 - Present*  
-Cohort-based program focused on developing personal leadership skills aligned with values, strengths and ethics, with an emphasis on identity, consciousness, and well-being.
+Cohort-based program focused on developing personal leadership skills aligned with values, strengths and ethics, with an emphasis on identity, consciousness, and well-being. -->
 
 ## [Montclair Kimberley Academy](https://www.mka.org/)
 *2014 - 2018*  
