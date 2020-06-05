@@ -5,11 +5,13 @@ menu: main
 weight: 1
 ---
 
-Hello! I am a rising junior studying mathematics and computer science at Harvey Mudd College. My interests center around theoretical machine learning, as well as applications of machine learning towards fields including robotics and autonomous vehicles, astronomy and space exploration, medical imaging, and finance and trading.
+Hello! I am a rising junior studying mathematics and computer science at [Harvey Mudd College](https://www.hmc.edu/). My interests center around theoretical machine learning, as well as applications of machine learning towards fields including robotics and autonomous vehicles, astronomy and space exploration, medical imaging, and finance and trading.
 
-Check out the [Miscellaneous](/miscellaneous) page for other information.
+Listed below are some details about my [technical experience](#technical), [coursework](/img/EspinosaDice_Coursework.pdf) at Harvey Mudd College, [leadership experience](#leadership), [volunteer experience](#volunteer), as well as some [additional](#additional) notes. Check out the [Miscellaneous](/miscellaneous) page for other information.
 
-# Experience
+Pronouns: He/Him.
+
+# Technical Experience {#technical}
 ## [AMISTAD Lab](https://www.cs.hmc.edu/~montanez/amistad.html)
 **Machine Learning Researcher**  
 *May 2020 - Present*  
@@ -31,12 +33,10 @@ In the summer of 2017, I took [General Assembly's](https://generalassemb.ly/) [d
 
 As part of the final project for the course, I built a random forest regression model in Python to predict the final sale prices of Iowa houses with over 90% accuracy. I then presented the model’s results to General Assembly faculty and students. The project is available on [Github](https://github.com/nico-espinosadice/house-price-prediction) and [Housing_Prices_Analysis.pdf](/img/Housing_Prices_Analysis.pdf).
 
-## [Coursework](/img/EspinosaDice_Coursework.pdf)
+## [Coursework](/img/EspinosaDice_Coursework.pdf) {#coursework}
 A list of the mathematics and computer science courses I have taken is available [here](/img/EspinosaDice_Coursework.pdf).
 
-# Clubs and Organizations
-Listed below are some of the clubs and organizations I have been a part of. 
-
+# Leadership Experience {#leadership}
 ## [Harvey Mudd College](https://www.hmc.edu/)
 *2018 - Present*  
 [Honor Board](https://www.hmc.edu/ashmc/honor-code/) (Judiciary Board Chair), Data Science Club (Co-Founder and Co-President), [Mudd's Amateur Rocketry Club](https://www.hmc.edu/ashmc/chartered-clubs/) (Treasurer, HPR Level 1 Certified), [Society of Professional Latinx in STEM](https://www.facebook.com/HarveyMuddSPLS/) (Public Outreach Director), [Claremont Philosophers](https://www.facebook.com/groups/claremontphilosophers/)
@@ -49,20 +49,38 @@ Chair hearings regarding Honor Code violations and mediate settlements between s
 
 [Member, 2018 - 2019] Represent the Class of 2022 on Harvey Mudd’s Honor Board, the group responsible for matters concerning the Honor Code. Serve on judiciary and disciplinary hearings regarding possible violations of the Honor Code.
 
+## [Montclair Kimberley Academy](https://www.mka.org/)
+*2014 - 2018*  
+ WeCode Organization (Founder and President), Varsity Math Team (Captain), Executive Committee (Chair), Peer Leader Program (Mentor), Varsity Soccer (Captain), Science Bowl (Member)
+
+# Volunteer Experience {#volunteer}
+
 ### [Uncommon Good](https://uncommongood.org/)
 **Mathematics Tutor**  
 *2018 - Present*  
 Lead biweekly STEM tutoring sessions for high school students through [Uncommon Good](https://uncommongood.org/) and in partnership with Harvey Mudd College’s [Society of Professional Latinx in STEM](https://www.facebook.com/HarveyMuddSPLS/) (SPLS). Currently serve as SPLS’s Public Outreach Director and coordinate the tutoring sessions with Uncommon Good.
 
-<!-- ### Impact Leadership Program
-*2019 - Present*  
-Cohort-based program focused on developing personal leadership skills aligned with values, strengths and ethics, with an emphasis on identity, consciousness, and well-being. -->
-
-## [Montclair Kimberley Academy](https://www.mka.org/)
-*2014 - 2018*  
- WeCode Organization (Founder and President), Varsity Math Team (Captain), Executive Committee (Chair), Peer Leader Program (Mentor), Varsity Soccer (Captain), Science Bowl (Member)
+### [Prison Education Project](http://www.prisoneducationproject.org/index.html)
+**Team Lead**  
+*2018*  
+Developed and taught a chemistry course for incarcerated individuals at the California Rehabilitation Center.
 
 ### [STEM Together](http://www.montclairlibrary.org/news-events/summer-coding-with-nico-espinosa-dice/)
 **Founder and President**  
 *2015 - 2018*  
 Founded an organization with the mission of increasing the accessibility of STEM education by helping schools and organizations develop STEM programs. Taught multiple computer programming courses for the [Montclair Kimberley Academy](https://www.mka.org/academics/primary) elementary school with a team of five instructors and forty students enrolled per year, and a summer course for the [Montclair Public Library](https://montclairlibrary.org/) with four instructors and eighteen students enrolled.
+
+
+# Additional {#additional}
+
+<!-- ### Impact Leadership Program
+*2019 - Present*  
+Cohort-based program focused on developing personal leadership skills aligned with values, strengths and ethics, with an emphasis on identity, consciousness, and well-being. -->
+
+### [Startup 101](http://startup101.mka.org/)
+*2018*  
+Startup 101 is an immersive "startup experience" centered on design thinking and entrepreneurship, led by [Dr. Reshan Richards](https://www.linkedin.com/in/reshan-richards-50782b12/). For four weeks, we focused on a particular problem, researching and experimenting with possible solutions, spoke to industry experts, and ultimately developed a solution that was pitched at the [May Term](https://www.mka.org/student-life/mayterm) Symposium in 2018.
+
+More information about our team's Startup 101 experience is available [here](http://startup101.mka.org/blog-40). I discuss my [experience](https://books.google.com/books?id=a6iODwAAQBAJ&pg=PA82&lpg=PA82&dq=make+yourself+clear+nico+espinosa+dice&source=bl&ots=6cX6hF4ONa&sig=ACfU3U3qcoEjfHpikMfLmxz399e63e6L_Q&hl=en&sa=X&ved=2ahUKEwjYr_7s76ToAhW_lnIEHfgZA58Q6AEwAHoECAoQAQ#v=onepage&q=make%20yourself%20clear%20nico%20espinosa%20dice&f=false) throughout Startup 101 in [Make Yourself Clear](https://www.amazon.com/Make-Yourself-Clear-Understand-Everything/dp/111955859X), a book by Dr. Reshan Richards and [Stephen J. Valentine](https://www.linkedin.com/in/stephen-valentine-563bab77/).
+
+Related Blogs: [Constructivist Toolkit](https://www.constructivisttoolkit.com/2019/explain-everything-2020-hope) (Richards) and [Refreshing Wednesday](https://refreshingwednesday.com) (Valentine).

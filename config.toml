@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Nico Espinosa Dice"
+title = "Nico A. Espinosa Dice"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
