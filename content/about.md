@@ -5,7 +5,7 @@ menu: main
 weight: 1
 ---
 
-Hello! I am a rising junior studying mathematics and computer science at [Harvey Mudd College](https://www.hmc.edu/). My interests center around theoretical machine learning, as well as applications of machine learning towards fields including robotics and autonomous vehicles, astronomy and space exploration, medical imaging, and finance and trading.
+Hello! I am a rising junior studying mathematics and computer science at Harvey Mudd College. My interests center around theoretical machine learning, as well as applications of machine learning towards fields including robotics and autonomous vehicles, astronomy and space exploration, medical imaging, and finance and trading.
 
 Listed below are some details about my [technical experience](#technical), [coursework](/img/EspinosaDice_Coursework.pdf) at Harvey Mudd College, [leadership experience](#leadership), [volunteer experience](#volunteer), as well as some [additional](#additional) notes. Check out the [Miscellaneous](/miscellaneous) page for other information.
 
