@@ -10,9 +10,14 @@ resources:
 ---
 A partially ordered collection of pieces of [writing](#writing), links documenting previous projects and [experiences](#miscellaneous), and [photos](/photos).
 
-Additionally, we are in the process of consolidating a family history of the Espinosa's from Ecuador. The family tree, stories, and other information will be linked from this page.
-
+<!-- Additionally, we are in the process of consolidating a family history of the Espinosa's from Ecuador. The family tree, stories, and other information will be linked from this page.
+ -->
 ## Writing
+<!-- ### [Medium: @nico.espinosadice](https://medium.com/@nico.espinosadice)
+ -->
+### [Medium](https://medium.com/@nico.espinosadice)
+Username: [@nico.espinosadice](https://medium.com/@nico.espinosadice)
+
 
 ### [Make Yourself Clear](https://www.makeyourselfclear.xyz/)
 **By [Dr. Reshan Richards](https://www.linkedin.com/in/reshan-richards-50782b12/) and [Stephen J. Valentine](https://www.linkedin.com/in/stephen-valentine-563bab77/)**  
@@ -28,10 +33,20 @@ Related Blogs: [Constructivist Toolkit](https://www.constructivisttoolkit.com/20
 ### [Analysis of American Military Intervention in Venezuela](/img/American_Intervention_Venezuela.pdf)
 **By Nico A. Espinosa Dice**  
 *May 10, 2019*  
+[American_Intervention_Venezuela.pdf](/img/American_Intervention_Venezuela.pdf)  
 [![](/img/American_Intervention_Cover.jpeg)](/img/American_Intervention_Venezuela.pdf)
+
+### [Why We Raced](/img/Why_We_Raced.pdf)
+**By Nico A. Espinosa Dice**  
+*February 27, 2017*  
+[Why_We_Raced.pdf](/img/Why_We_Raced.pdf)  
+<!-- [![](/img/Why_We_Raced_Cover.jpeg)](/img/Why_We_Raced.pdf) -->
 
 
 ## Miscellaneous
+[Summer Research Blog Post](https://hmc-summer.blogspot.com/2020/06/amistad-abductive-theory.html)
+*June 25, 2020*
+
 [Ethics in Technology](https://tsl.news/hmc-career-fair-ethics/)
 *September 27, 2019*
 
