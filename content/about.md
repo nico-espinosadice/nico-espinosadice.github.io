@@ -5,19 +5,22 @@ menu: main
 weight: 1
 ---
 
-Hello! I am a rising junior studying mathematics and computer science at Harvey Mudd College. My interests center around theoretical machine learning, as well as applications of machine learning towards fields including robotics and autonomous vehicles, astronomy and space exploration, medical imaging, and finance and trading.
+Hello! I am currently a junior studying mathematics and computer science at [Harvey Mudd College](https://www.hmc.edu/), where I am a [Harvey S. Mudd Merit Scholar](https://www.hmc.edu/admission/afford/scholarships-and-grants/merit-based-scholarships/harvey-s-mudd-merit-award). My interests center around theoretical machine learning, as well as applications of machine learning towards fields including robotics and autonomous vehicles, astronomy and space exploration, medical imaging, and finance and trading. 
 
-Listed below are some details about my [technical experience](#technical), [coursework](/img/EspinosaDice_Coursework.pdf) at Harvey Mudd College, [leadership experience](#leadership), [volunteer experience](#volunteer), as well as some [additional](#additional) notes. Check out the [Miscellaneous](/miscellaneous) page for other information.
+Listed below are some details about my [research experience](#research), [technical experience](#technical), [coursework](/img/EspinosaDice_Coursework.pdf) at Harvey Mudd College, [leadership experience](#leadership), [volunteer experience](#volunteer), as well as some [additional](#additional) notes. Check out the [Miscellaneous](/miscellaneous) page for other information.
 
 Pronouns: He/Him.
 
-# Technical Experience {#technical}
-## [AMISTAD Lab](https://www.cs.hmc.edu/~montanez/amistad.html)
+# Research Experience {#research}
+## [AMISTAD Lab](https://www.cs.hmc.edu/~montanez/amistad.html) {#amistad}
 **Machine Learning Researcher**  
 *May 2020 - Present*  
-This summer, I will be a researcher in the [AMISTAD Lab](https://www.cs.hmc.edu/~montanez/amistad.html) under [Professor George D. Montañez](https://www.cs.hmc.edu/~montanez/). Our team is currently working on developing a mathematical framework of abductive reasoning for use in machine learning applications.
+This past summer (2020), I worked as a machine learning researcher and team lead in the [AMISTAD Lab](https://www.cs.hmc.edu/~montanez/amistad.html) under [Professor George D. Montañez](https://www.cs.hmc.edu/~montanez/), a lab at Harvey Mudd College focused on theoretical machine learning research.
 
-## [Viasat](https://www.viasat.com/)
+Our team that developed a probabilistic model of abductive logical reasoning, using a Bayesian network framework, that constructs novel explanations of observed effects for use in machine learning applications. Earlier this month, we submitted the research paper to the [International Conference on Agents and Artificial Intelligence](http://www.icaart.org/) (ICAART), and we will be submitting a second research paper to the [Pacific-Asia Conference on Knowledge Discovery and Data Mining](https://www.pakdd2021.org/) (PAKDD) this November.
+
+# Technical Experience {#technical}
+## [Viasat](https://www.viasat.com/) {#viasat}
 **Software Engineer Intern**  
 *May 2019 - August 2019*  
 Last summer, I interned at [Viasat](https://www.viasat.com/) as a software engineer on the [NextGen TDL](https://www.viasat.com/products/next-gen-link16) team. Our intern team of three designed and built a heads-up display that improved the situational awareness of soldiers by connecting to a [Link 16](https://www.viasat.com/products/link-16-tactical-data-links) radio network – a tactical data link network – in order to receive, display, and send information. The project was [presented](https://www.linkedin.com/posts/viasat-government_ausa2019-nationalasset-activity-6591002603256115200-3vmt) by Viasat at the [2019 Association of the United States Army](https://ausameetings.org/2019annualmeeting/) conference. 
@@ -39,19 +42,22 @@ A list of the mathematics and computer science courses I have taken is available
 # Leadership Experience {#leadership}
 ## [Harvey Mudd College](https://www.hmc.edu/)
 *2018 - Present*  
-[Honor Board](https://www.hmc.edu/ashmc/honor-code/) (Judiciary Board Chair), Data Science Club (Co-Founder and Co-President), [Mudd's Amateur Rocketry Club](https://www.hmc.edu/ashmc/chartered-clubs/) (Treasurer, HPR Level 1 Certified), [Society of Professional Latinx in STEM](https://www.facebook.com/HarveyMuddSPLS/) (Public Outreach Director), [Claremont Philosophers](https://www.facebook.com/groups/claremontphilosophers/)
+[Honor Board](https://www.hmc.edu/ashmc/honor-code/) (Judiciary Board Chair), Data Science Club (Co-Founder and Co-President), [Mudd's Amateur Rocketry Club](https://www.hmc.edu/ashmc/chartered-clubs/) (Treasurer, HPR Level 1 Certified), [Society of Professional Latinx in STEM](https://www.facebook.com/HarveyMuddSPLS/) (Public Outreach Director), [Claremont Philosophers](https://www.facebook.com/groups/claremontphilosophers/).
 
 ### [Honor Board](https://www.hmc.edu/ashmc/honor-code/)
 **Judiciary Board Chair**  
 *2018 - Present*  
-[Chair, 2020] Lead Harvey Mudd College’s Honor Board, responsible for upholding the [Honor Code](http://catalog.hmc.edu/content.php?catoid=9&navoid=342).
+[Chair, 2020]  
+Oversee twenty-two students on Harvey Mudd College’s [Honor Board](https://www.hmc.edu/ashmc/honor-code/), responsible for upholding the [Honor Code](http://catalog.hmc.edu/content.php?catoid=9&navoid=342).  
 Chair hearings regarding Honor Code violations and mediate settlements between students and faculty.
 
-[Member, 2018 - 2019] Represent the Class of 2022 on Harvey Mudd’s Honor Board, the group responsible for matters concerning the Honor Code. Serve on judiciary and disciplinary hearings regarding possible violations of the Honor Code.
+[Member, 2018 - 2019]  
+Represent the Class of 2022 on Harvey Mudd’s Honor Board, the group responsible for matters concerning the Honor Code.  
+Serve on judiciary and disciplinary hearings regarding possible violations of the Honor Code.
 
 ## [Montclair Kimberley Academy](https://www.mka.org/)
 *2014 - 2018*  
- WeCode Organization (Founder and President), Varsity Math Team (Captain), Executive Committee (Chair), Peer Leader Program (Mentor), Varsity Soccer (Captain), Science Bowl (Member)
+WeCode Organization (Founder and President), Varsity Math Team (Captain), Executive Committee (Chair), Peer Leader Program (Mentor), Varsity Soccer (Captain), Science Bowl (Member).
 
 # Volunteer Experience {#volunteer}
 
