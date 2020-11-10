@@ -49,7 +49,7 @@ theme = "mainroad"
   github = "nico-espinosadice"
   # gitlab = "username"
   # bitbucket = "username"
-  email = "nesinosadice@hmc.edu"
+  email = "nespinosadice@hmc.edu"
 
 # Custom social links
 [[Params.widgets.social.custom]]
