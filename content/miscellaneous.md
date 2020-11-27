@@ -15,8 +15,8 @@ A partially ordered collection of pieces of [writing](#writing), links documenti
 ## Writing
 <!-- ### [Medium: @nico.espinosadice](https://medium.com/@nico.espinosadice)
  -->
-### [Medium](https://medium.com/@nico.espinosadice)
-Username: [@nico.espinosadice](https://medium.com/@nico.espinosadice)
+<!-- ### [Medium](https://medium.com/@nico.espinosadice)
+Username: [@nico.espinosadice](https://medium.com/@nico.espinosadice) -->
 
 
 ### [Make Yourself Clear](https://www.makeyourselfclear.xyz/)
