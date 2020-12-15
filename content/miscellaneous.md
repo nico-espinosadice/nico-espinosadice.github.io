@@ -8,7 +8,7 @@ resources:
   name: gallery-:counter
   title: gallery-title-:counter
 ---
-A partially ordered collection of pieces of [writing](#writing), links documenting previous projects and [experiences](#miscellaneous), and [photos](/photos).
+A partially ordered collection of pieces of [writing](#writing), links documenting previous projects and [experiences](#miscellaneous).
 
 <!-- Additionally, we are in the process of consolidating a family history of the Espinosa's from Ecuador. The family tree, stories, and other information will be linked from this page.
  -->
@@ -17,7 +17,6 @@ A partially ordered collection of pieces of [writing](#writing), links documenti
  -->
 <!-- ### [Medium](https://medium.com/@nico.espinosadice)
 Username: [@nico.espinosadice](https://medium.com/@nico.espinosadice) -->
-
 
 ### [Make Yourself Clear](https://www.makeyourselfclear.xyz/)
 **By [Dr. Reshan Richards](https://www.linkedin.com/in/reshan-richards-50782b12/) and [Stephen J. Valentine](https://www.linkedin.com/in/stephen-valentine-563bab77/)**  
@@ -35,12 +34,6 @@ Related Blogs: [Constructivist Toolkit](https://www.constructivisttoolkit.com/20
 *May 10, 2019*  
 [American_Intervention_Venezuela.pdf](/img/American_Intervention_Venezuela.pdf)  
 [![](/img/American_Intervention_Cover.jpeg)](/img/American_Intervention_Venezuela.pdf)
-
-### [Why We Raced](/img/Why_We_Raced.pdf)
-**By Nico A. Espinosa Dice**  
-*February 27, 2017*  
-[Why_We_Raced.pdf](/img/Why_We_Raced.pdf)  
-<!-- [![](/img/Why_We_Raced_Cover.jpeg)](/img/Why_We_Raced.pdf) -->
 
 
 ## Miscellaneous
@@ -74,5 +67,3 @@ Related Blogs: [Constructivist Toolkit](https://www.constructivisttoolkit.com/20
 
 [Montclair Kimberley Academy 3rd Place in Essex Math Contest](https://www.facebook.com/MontclairKimberley/posts/mka-came-in-3rd-place-overall-at-the-essex-county-math-league-that-was-held-at-c/10153532473951128/)
 *May 18, 2018*
-
-## [Photos](/photos)

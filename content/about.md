@@ -5,9 +5,10 @@ menu: main
 weight: 1
 ---
 
-Hello! I am currently a junior studying mathematics and computer science at [Harvey Mudd College](https://www.hmc.edu/), where I am a [Harvey S. Mudd Merit Scholar](https://www.hmc.edu/admission/afford/scholarships-and-grants/merit-based-scholarships/harvey-s-mudd-merit-award). My interests center around theoretical machine learning, as well as applications of machine learning towards fields including robotics and autonomous vehicles, astronomy and space exploration, medical imaging, and finance and trading. 
+Hello! I am currently a junior studying mathematics and computer science at [Harvey Mudd College](https://www.hmc.edu/), where I am a [Harvey S. Mudd Merit Scholar](https://www.hmc.edu/admission/afford/scholarships-and-grants/merit-based-scholarships/harvey-s-mudd-merit-award). 
+<!-- My interests center around theoretical machine learning, as well as applications of machine learning towards fields including robotics and autonomous vehicles, astronomy and space exploration, medical imaging, and finance and trading.  -->
 
-Listed below are some details about my [research experience](#research), [technical experience](#technical), [coursework](/img/EspinosaDice_Coursework.pdf) at Harvey Mudd College, [leadership experience](#leadership), [volunteer experience](#volunteer), as well as some [additional](#additional) notes. Check out the [Miscellaneous](/miscellaneous) page for other information.
+Listed below are some details about my [research experience](#research), [technical experience](#technical), [coursework](/img/EspinosaDice_Coursework.pdf) at Harvey Mudd College, [leadership experience](#leadership), [volunteer experience](#volunteer), as well as some [additional](#additional) notes. See [Miscellaneous](/miscellaneous) page for other information.
 
 Pronouns: He/Him.
 
@@ -15,11 +16,18 @@ Pronouns: He/Him.
 ## [AMISTAD Lab](https://www.cs.hmc.edu/~montanez/amistad.html) {#amistad}
 **Machine Learning Researcher**  
 *May 2020 - Present*  
-This past summer (2020), I worked as a machine learning researcher and team lead in the [AMISTAD Lab](https://www.cs.hmc.edu/~montanez/amistad.html) under [Professor George D. Montañez](https://www.cs.hmc.edu/~montanez/), a lab at Harvey Mudd College focused on theoretical machine learning research.
+Last summer (2020), I worked as a machine learning researcher and team lead in the [AMISTAD Lab](https://www.cs.hmc.edu/~montanez/amistad.html) under [Professor George D. Montañez](https://www.cs.hmc.edu/~montanez/), a lab at Harvey Mudd College focused on theoretical machine learning research. Our team that developed a probabilistic model of abductive logical reasoning, using a Bayesian network framework, that constructs novel explanations of observed effects for use in machine learning applications. The paper was accepted into the [International Conference on Agents and Artificial Intelligence](http://www.icaart.org/) (ICAART), to be presented in February 2021. A link to the paper will be provided when made publicly available.
 
-Our team that developed a probabilistic model of abductive logical reasoning, using a Bayesian network framework, that constructs novel explanations of observed effects for use in machine learning applications. Earlier this month, we submitted the research paper to the [International Conference on Agents and Artificial Intelligence](http://www.icaart.org/) (ICAART), and we will be submitting a second research paper to the [Pacific-Asia Conference on Knowledge Discovery and Data Mining](https://www.pakdd2021.org/) (PAKDD) this November.
+Currently, our research is focused on developing theoretical bounds relating learning success, generalization error, and bias.
+
 
 # Technical Experience {#technical}
+## [Etsy](https://www.etsy.com/)
+**(Incoming) Software Engineer Intern**  
+*Summer 2021*  
+This coming summer (2021), I will be working at [Etsy](https://www.etsy.com/) as a software engineer intern. 
+
+
 ## [Viasat](https://www.viasat.com/) {#viasat}
 **Software Engineer Intern**  
 *May 2019 - August 2019*  
@@ -39,10 +47,13 @@ As part of the final project for the course, I built a random forest regression 
 ## [Coursework](/img/EspinosaDice_Coursework.pdf) {#coursework}
 A list of the mathematics and computer science courses I have taken is available [here](/img/EspinosaDice_Coursework.pdf).
 
+In terms of coursework, I have enjoyed both applied mathematics and computer science courses – including [mathematics of big data](https://math189bigdata.github.io/index.html), data structures and program development, and algorithms – and theoretical courses such as abstract algebra and real analysis. A full list of the coursework that I have taken is available [here](/img/EspinosaDice_Coursework.pdf).
+
+
 # Leadership Experience {#leadership}
 ## [Harvey Mudd College](https://www.hmc.edu/)
 *2018 - Present*  
-[Honor Board](https://www.hmc.edu/ashmc/honor-code/) (Judiciary Board Chair), Data Science Club (Co-Founder and Co-President), [Mudd's Amateur Rocketry Club](https://www.hmc.edu/ashmc/chartered-clubs/) (Treasurer, HPR Level 1 Certified), [Society of Professional Latinx in STEM](https://www.facebook.com/HarveyMuddSPLS/) (Public Outreach Director), [Claremont Philosophers](https://www.facebook.com/groups/claremontphilosophers/).
+[Honor Board](https://www.hmc.edu/ashmc/honor-code/) (Judiciary Board Chair), Data Science Club (Co-Founder and Co-President), [Mudd's Amateur Rocketry Club](https://www.hmc.edu/ashmc/chartered-clubs/) (former Treasurer, HPR Level 1 Certified), [Society of Professional Latinx in STEM](https://www.facebook.com/HarveyMuddSPLS/) (former Public Outreach Director), [Claremont Philosophers](https://www.facebook.com/groups/claremontphilosophers/).
 
 ### [Honor Board](https://www.hmc.edu/ashmc/honor-code/)
 **Judiciary Board Chair**  
@@ -63,8 +74,8 @@ WeCode Organization (Founder and President), Varsity Math Team (Captain), Execut
 
 ### [Uncommon Good](https://uncommongood.org/)
 **Mathematics Tutor**  
-*2018 - Present*  
-Lead biweekly STEM tutoring sessions for high school students through [Uncommon Good](https://uncommongood.org/) and in partnership with Harvey Mudd College’s [Society of Professional Latinx in STEM](https://www.facebook.com/HarveyMuddSPLS/) (SPLS). Currently serve as SPLS’s Public Outreach Director and coordinate the tutoring sessions with Uncommon Good.
+*2018 - May 2020*  
+Led biweekly STEM tutoring sessions for high school students through [Uncommon Good](https://uncommongood.org/) and in partnership with Harvey Mudd College’s [Society of Professional Latinx in STEM](https://www.facebook.com/HarveyMuddSPLS/) (SPLS). Served as SPLS’s Public Outreach Director and coordinate the tutoring sessions with Uncommon Good.
 
 ### [Prison Education Project](http://www.prisoneducationproject.org/index.html)
 **Team Lead**  
