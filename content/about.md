@@ -20,8 +20,8 @@ Last Updated: October, 2021.
 *May 2020 - Present*  
 In the summer of 2020, I worked as a machine learning researcher and team lead in the [AMISTAD Lab](https://www.cs.hmc.edu/~montanez/amistad.html) under [Professor George D. Montañez](https://www.cs.hmc.edu/~montanez/), a lab at Harvey Mudd College focused on theoretical machine learning research. Our team that developed a probabilistic model of abductive logical reasoning, using a Bayesian network framework, that constructs novel explanations of observed effects for use in machine learning applications. The paper was published in the [International Conference on Agents and Artificial Intelligence](http://www.icaart.org/) (ICAART 2021) and was presented at the conference in February, 2021. 
 
-In 2021, our research focused on developing theoretical bounds relating learning success, generalization error, and bias. We currently have a paper under review at the *33rd International Conference
-on Algorithmic Learning Theory (ALT 2022)*. The paper will be linked once published.
+In 2021, our research focused on developing theoretical bounds relating learning success, generalization error, and bias. We currently have a paper under review at the *[33rd International Conference
+on Algorithmic Learning Theory (ALT 2022)](http://algorithmiclearningtheory.org/alt2022/)*. The paper will be linked once published.
 
 Currently, our research is focused on proving generalization bounds on probabilistic abduction in artificial learning.
 
@@ -29,7 +29,8 @@ Currently, our research is focused on proving generalization bounds on probabili
 ### Publications
 [Espinosa Dice N, Kaye M, Ahmed H, Montanez G, "A Probabilistic Theory of Abductive Reasoning." *13th International Conference on Agents and Artificial Intelligence (ICAART 2021)*, Online, Feb 4-6, 2021.](https://www.scitepress.org/Papers/2021/101954/101954.pdf)
 
-Paper under review at 33rd International Conference on Algorithmic Learning Theory (ALT 2022).
+Paper under review at *[33rd International Conference
+on Algorithmic Learning Theory (ALT 2022)](http://algorithmiclearningtheory.org/alt2022/)*.
 
 <!-- Currently, our research is focused on developing theoretical bounds relating learning success, generalization error, and bias.
  -->
