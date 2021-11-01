@@ -10,6 +10,8 @@ resources:
 ---
 A partially ordered collection of pieces of [writing](#writing), links documenting previous projects and [experiences](#miscellaneous).
 
+Last Updated: October, 2021.
+
 <!-- Additionally, we are in the process of consolidating a family history of the Espinosa's from Ecuador. The family tree, stories, and other information will be linked from this page.
  -->
 ## Writing

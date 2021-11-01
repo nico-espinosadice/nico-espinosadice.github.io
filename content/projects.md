@@ -7,11 +7,18 @@ weight: 2
 
 Descriptions and links for past and present projects.
 
+Last Updated: October, 2021.
+
+### Identifying Seizures in Electroencephalography Data Through GraphSAGE
+**Researcher**  
+*September 2021 – Present*  
+For my project in [Math189AC: Geometry of Big Data](https://weiqinggu.github.io/Math-189AC-Course-Webpage/), I am developing a [GraphSAGE](http://snap.stanford.edu/graphsage/) model that identifies seizures in the electrical activity data produced from electroencephalography.
+
 ### [Biometric Authentication of Smartphone Users](https://github.com/nico-espinosadice/biometric-authentication-svms)
 **Researcher**  
 *January 2020 - May 2020*  
 [Biometric_Authentication_Smartphone_Users.pdf](/img/Biometric_Authentication_Smartphone_Users.pdf)  
-For my final project in [Math189R](https://math189bigdata.github.io/index.html), I examined the use and performance of support vector machine (SVM) models in biometric authentication of smartphone users. Furthermore, I empirically examined the performance of varying kernel functions, including linear, polynomial, sigmoid, and radial basis functions.
+For my final project in [Math189R: Mathematics of Big Data](https://math189bigdata.github.io/index.html), I examined the use and performance of support vector machine (SVM) models in biometric authentication of smartphone users. Furthermore, I empirically examined the performance of varying kernel functions, including linear, polynomial, sigmoid, and radial basis functions.
 
 ### [Sentiment Analysis of Covid-19 Related Tweets](https://github.com/nico-espinosadice/covid-tweets-analysis)
 **Researcher**  

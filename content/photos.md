@@ -1,6 +1,6 @@
 ---
 title: "Photos"
-draft: false
+draft: True
 ---
 
 {{< figure src="/img/gallery1/3.jpg" >}}
