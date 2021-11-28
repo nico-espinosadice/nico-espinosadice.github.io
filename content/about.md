@@ -39,7 +39,7 @@ on Algorithmic Learning Theory (ALT 2022)](http://algorithmiclearningtheory.org/
 ## [Etsy](https://www.etsy.com/)
 **Software Engineer Intern**  
 *May 2021 – August 2021*  
-This summer (2021), I worked at [Etsy](https://www.etsy.com/) as a software engineer intern. I developed a transformer deep learning model with DistilBERT architecture using Tensorflow to identify safe search queries with over 91% accuracy. I improved query understanding at Etsy by retraining an existing transformer model that classifies search queries as
+Last summer (2021), I worked at [Etsy](https://www.etsy.com/) as a software engineer intern. I developed a transformer deep learning model with DistilBERT architecture using Tensorflow to identify safe search queries with over 91% accuracy. I improved query understanding at Etsy by retraining an existing transformer model that classifies search queries as
 broad or direct, increasing accuracy by 9% and reducing model volatility.
 
 
