@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Nico A. Espinosa Dice"
+title = "Nicolas Espinosa Dice"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
@@ -7,11 +7,11 @@ theme = "mainroad"
 # googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
-  name = "Nico Espinosa Dice"
+  name = "Nicolas Espinosa Dice"
 
 [Params]
-  description = "Nico Espinosa Dice's personal website." # Site description. Used in meta description
-  copyright = "Nico Espinosa Dice" # Footer copyright holder, otherwise will use site title
+  description = "Nicolas Espinosa Dice's personal website." # Site description. Used in meta description
+  copyright = "Nicolas Espinosa Dice" # Footer copyright holder, otherwise will use site title
   opengraph = false # Enable OpenGraph if true
   twitter_cards = false # Enable Twitter Cards if true
   readmore = false # Show "Read more" button in list if true
@@ -24,7 +24,7 @@ theme = "mainroad"
   # mathjax = true # Enable MathJax
   # mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
   # mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
-  highlightColor = "#5c4636" # Override highlight color
+  highlightColor = "#534B4F" # Override highlight color
   # customCSS = ["css/custom.css"] # Include custom CSS files
   # customJS = ["js/custom.js"] # Include custom JS files
 
@@ -53,8 +53,16 @@ theme = "mainroad"
 
 # Custom social links
 [[Params.widgets.social.custom]]
-  title = "Resume"
-  url = "/img/EspinosaDice_Resume.pdf"
+  title = "CV"
+  url = "/img/CV.pdf"
+
+[[Params.widgets.social.custom]]
+  title = "Google Scholar"
+  url = "https://scholar.google.com/citations?user=qDVM1S0AAAAJ&hl=en&oi=sra"
+
+[[Params.widgets.social.custom]]
+  title = "ORCID"
+  url = "https://orcid.org/0000-0001-7802-6196"
 
 # [[Params.widgets.social.custom]]
 #   title = "Kaggle"
