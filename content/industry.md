@@ -8,13 +8,13 @@ weight: 1
 ## [HMC Clinic Program: Rockerbox](https://www.clinic.cs.hmc.edu/)
 **Project Manager**  
 *September 2021 - Present*  
-As part of [HMC's Clinic Program](https://www.clinic.cs.hmc.edu/) this academic year, I have served as the project manager of the undergraduate team working with [Rockerbox](https://www.rockerbox.com/), a marketing attrition company. Our team is building an unsupervised anomaly detection model on time-series marketing data through a dynamic regression model and a long short-term memory (LSTM) autoencoder.
+As part of [HMC's Clinic Program](https://www.clinic.cs.hmc.edu/) this academic year, I have served as the project manager of the team working with [Rockerbox](https://www.rockerbox.com/), a marketing attrition company. Our team is building an unsupervised anomaly detection model on time-series marketing data through a dynamic regression model and a long short-term memory (LSTM) autoencoder.
 
 
 ## [Etsy](https://www.etsy.com/)
 **Software Engineer Intern**  
 *May 2021 – August 2021*  
-I interned at Etsy on their search query understanding (SQU) team. At the time, the SQU team faced the issue of inappropriate queries being suggested to users and trending as top queries. I developed and implemented the solution to this problem, including constructing the training dataset with SQL. Using Tensorflow, I developed a DistilBERT language model. In addition to supplying the text of the query, I incorporated numerical query metrics into the model’s inputs. Using the Google Cloud Platform for training and storage, the model achieved 91% accuracy, and the SQU team will be moving the model to production.
+I interned at Etsy on their search query understanding (SQU) team. At the time, the SQU team faced the issue of inappropriate queries being suggested to users and trending as top queries. I developed and implemented the solution to this problem, including constructing the training dataset with SQL. Using Tensorflow, I developed a DistilBERT language model. In addition to supplying the text of the query, I incorporated numerical query metrics into the model’s inputs. Using the Google Cloud Platform for training and storage, the model achieved 91% accuracy, and the SQU team will be moving the model to production. Additionally, I retrained an existing transformer-based model that classifies search queries as broad or direct, where I increased accuracy by 9% and reduced model volatility.
 
 
 ## [Viasat](https://www.viasat.com/) {#viasat}

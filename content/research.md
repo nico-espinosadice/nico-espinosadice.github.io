@@ -5,6 +5,8 @@ menu: main
 weight: 1
 ---
 
+<!-- I have  -->
+
 <!-- I am an undergraduate studying mathematics and computer science at [Harvey Mudd College](https://www.hmc.edu/), where I am a [Harvey S. Mudd Merit Scholar](https://www.hmc.edu/admission/afford/scholarships-and-grants/merit-based-scholarships/harvey-s-mudd-merit-award). I am advised by [Professor George D. Montañez](https://www.cs.hmc.edu/~montanez/) and [Professor Dagan Karp](https://www.math.hmc.edu/~dk/). I am a member of the [AMISTAD Lab](https://www.cs.hmc.edu/~montanez/amistad.html), led by Professor Montañez, where I conduct research in theoretical machine learning. I have also worked with [Profesesor Weiqing Gu](https://math.hmc.edu/gu/) in geometric deep learning. I applied to graduate school during the fall of 2021. I plan to pursue a Ph.D. in computer science next fall. My research interests are in deep learning and reinforcement learning. -->
 
 <!-- Hello! I am currently a senior studying mathematics and computer science at [Harvey Mudd College](https://www.hmc.edu/), where I am a [Harvey S. Mudd Merit Scholar](https://www.hmc.edu/admission/afford/scholarships-and-grants/merit-based-scholarships/harvey-s-mudd-merit-award).  -->
@@ -23,7 +25,7 @@ Advisor: [Weiqing Gu](https://math.hmc.edu/gu/)
 *September 2021 - Present*  
 Advisor: Weiqing Gu -->
 
-Under the direction of Professor Weiqing Gu at HMC, I built a temporal graph convolutional network (T-GCN) model to detect seizures in electroencephalogram (EEG) data. T-GCN models can detect the time of the seizure and its region in the brain by combining GCN and recurrent neural network (RNN) architectures. Unlike convolutional neural networks (CNNs), T-GCNs can handle the non-Euclidean signals in the EEG data. We are currently working to integrate EEG and gait data with geometric deep learning methods to diagnose Parkinson’s disease and analyze its progression.
+Under the direction of Professor Weiqing Gu, I built a temporal graph convolutional network (T-GCN) model to detect seizures in electroencephalogram (EEG) data. T-GCN models can detect the time of a seizure and its region in the brain by combining graph convolutional network (GCN) and recurrent neural network (RNN) architectures. Unlike convolutional neural networks (CNNs), T-GCNs can handle the non-Euclidean signals in the EEG data. We are currently working to integrate EEG and gait data with geometric deep learning methods to diagnose Parkinson’s disease and analyze its progression.
 
 <!-- Electroencephalogram (EEG) data is valuable in understanding neurological disorders and developing brain-computer interfaces because of its resolution and noninvasiveness. Convolutional neural networks (CNNs) have been applied to EEG data for feature extraction, but CNNs are ill-equipped to handle the non-Euclidean signals in the data. Such signals, however, can be handled by graph convolutional neural networks (GCNs). 
  -->
@@ -48,7 +50,7 @@ on Algorithmic Learning Theory (ALT 2022)](http://algorithmiclearningtheory.org/
 
 ## Graphical Models
 [AMISTAD Lab](https://www.cs.hmc.edu/~montanez/amistad.html)  
-*May 2020 - October*  
+*May 2020 - October 2020*  
 Advisor: [George D. Montañez](https://www.cs.hmc.edu/~montanez/)
 
 <!-- ## [AMISTAD Lab](https://www.cs.hmc.edu/~montanez/amistad.html)

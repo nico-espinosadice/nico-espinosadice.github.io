@@ -29,7 +29,7 @@ Public Outreach Director (2019-2020): Led biweekly STEM tutoring sessions for hi
 ### Artificial Intelligence Course
 **Grader and Tutor**  
 *2021*  
-Graded and tutored for the artificial intelligence course (CSCI 151).
+Graded and tutored for the artificial intelligence course (HMC CSCI 151).
 
 ### [Prison Education Project](http://www.prisoneducationproject.org/index.html)
 **Team Lead**  
