@@ -5,6 +5,10 @@ menu: main
 weight: 1
 ---
 
+<!-- I am an undergraduate studying mathematics and computer science at [Harvey Mudd College](https://www.hmc.edu/), where I am a [Harvey S. Mudd Merit Scholar](https://www.hmc.edu/admission/afford/scholarships-and-grants/merit-based-scholarships/harvey-s-mudd-merit-award). I am advised by [Professor George D. Montañez](https://www.cs.hmc.edu/~montanez/) and [Professor Dagan Karp](https://www.math.hmc.edu/~dk/). I am a member of the [AMISTAD Lab](https://www.cs.hmc.edu/~montanez/amistad.html), led by Professor Montañez, where I conduct research in theoretical machine learning. I have also worked with [Profesesor Weiqing Gu](https://math.hmc.edu/gu/) in geometric deep learning. I will be graduating from Harvey Mudd College with a B.S. in May 2022. I hope to pursue a Ph.D. in computer science next year focusing on deep learning and reinforcement learning.
+
+Last Updated: November 2021. -->
+
 <!-- I have  -->
 
 <!-- I am an undergraduate studying mathematics and computer science at [Harvey Mudd College](https://www.hmc.edu/), where I am a [Harvey S. Mudd Merit Scholar](https://www.hmc.edu/admission/afford/scholarships-and-grants/merit-based-scholarships/harvey-s-mudd-merit-award). I am advised by [Professor George D. Montañez](https://www.cs.hmc.edu/~montanez/) and [Professor Dagan Karp](https://www.math.hmc.edu/~dk/). I am a member of the [AMISTAD Lab](https://www.cs.hmc.edu/~montanez/amistad.html), led by Professor Montañez, where I conduct research in theoretical machine learning. I have also worked with [Profesesor Weiqing Gu](https://math.hmc.edu/gu/) in geometric deep learning. I applied to graduate school during the fall of 2021. I plan to pursue a Ph.D. in computer science next fall. My research interests are in deep learning and reinforcement learning. -->
@@ -25,7 +29,7 @@ Advisor: [Weiqing Gu](https://math.hmc.edu/gu/)
 *September 2021 - Present*  
 Advisor: Weiqing Gu -->
 
-Under the direction of Professor Weiqing Gu, I built a temporal graph convolutional network (T-GCN) model to detect seizures in electroencephalogram (EEG) data. T-GCN models can detect the time of a seizure and its region in the brain by combining graph convolutional network (GCN) and recurrent neural network (RNN) architectures. Unlike convolutional neural networks (CNNs), T-GCNs can handle the non-Euclidean signals in the EEG data. We are currently working to integrate EEG and gait data with geometric deep learning methods to diagnose Parkinson’s disease and analyze its progression.
+I built a temporal graph convolutional network (T-GCN) model to detect seizures in electroencephalogram (EEG) data. T-GCN models can detect the time of a seizure and its region in the brain by combining graph convolutional network (GCN) and recurrent neural network (RNN) architectures. Unlike convolutional neural networks (CNNs), T-GCNs can handle the non-Euclidean signals in the EEG data. Professor Weiqing Gu and I are currently working to integrate EEG and gait data with geometric deep learning methods to diagnose Parkinson’s disease and analyze its progression.
 
 <!-- Electroencephalogram (EEG) data is valuable in understanding neurological disorders and developing brain-computer interfaces because of its resolution and noninvasiveness. Convolutional neural networks (CNNs) have been applied to EEG data for feature extraction, but CNNs are ill-equipped to handle the non-Euclidean signals in the data. Such signals, however, can be handled by graph convolutional neural networks (GCNs). 
  -->
@@ -40,12 +44,13 @@ Advisor: [George D. Montañez](https://www.cs.hmc.edu/~montanez/)
 *October 2020 - Present*  
 Advisor: George D. Montañez -->
 
-Our work focused on generalization bounds in statistical learning. Because the paper is currently under review, I have removed detailed information about it.
+Our work focused on generalization bounds in statistical learning. Because the paper is currently under review, I have removed detailed information about it. The paper is currently under review at the [33rd International Conference
+on Algorithmic Learning Theory (ALT 2022)](http://algorithmiclearningtheory.org/alt2022/), and I am the second of four authors on the submission.
 
 <!-- Recent work in generalization bounds has taken information-theoretic perspectives, which can measure bias and generalization error. However, information-theoretic frameworks lack connections to geometric representations of bias. Another perspective for understanding machine learning algorithms is the algorithmic search framework (ASF), a formalism for casting machine learning algorithms as a type of search. The ASF offers theorems on overfitting and underfitting, bias, and expressivity of algorithms. However, it lacks generalization bounds. In collaboration with a Ph.D. student at the University of Pennsylvania, Professor Montanez, and another undergraduate at HMC, we introduced new generalization bounds into the ASF. The bounds relate the generalization error of learning algorithms to Kullback-Leibler divergence, entropy, and algorithm capacity for sub-gaussian and sub-exponential loss functions. They build on the bounds developed by Aolin Xu, Daniel Russo, James Zhou, and Maxim Raginsky. Furthermore, we derived the generalization error of a learning algorithm in terms of its inductive orientation. The inductive orientation of an algorithm is defined by a geometric representation of biases relative to an information resource, such as a dataset. It is a vector representation of inductive bias, and it can define algorithmic bias. Our paper thereby remedies the lack of connections between information-theoretic frameworks and geometric representations of bias. Our paper is currently under review at the [33rd International Conference on Algorithmic Learning Theory (ALT 2022)](http://algorithmiclearningtheory.org/alt2022/). I am the second of four authors on the submission.  -->
 
-- Paper under review at the *[33rd International Conference
-on Algorithmic Learning Theory (ALT 2022)](http://algorithmiclearningtheory.org/alt2022/)*.
+<!-- - Paper under review at the *[33rd International Conference
+on Algorithmic Learning Theory (ALT 2022)](http://algorithmiclearningtheory.org/alt2022/)*. -->
 
 
 ## Graphical Models
@@ -62,7 +67,7 @@ We developed a probabilistic theory of abductive reasoning. Abductive reasoning 
 
 We worked on a probabilistic theory of abductive reasoning. Specifically, we developed a model that unifies selective and creative abduction by focusing on common cause abduction. Our model incorporates principles of causation by modeling abductive reasoning through a Bayesian network. I integrated selective and creative abduction with causal principles by developing two algorithms, which allow the model to compute novel and common-cause explanations for observations. I also developed one of the two similarity metrics we used, derived from the Jaccard index and edit-distance, in order to compute the similarity of graph nodes. I am the first of four authors on the paper published at the [13th International Conference on Agents and Artificial Intelligence (ICAART 2021)](http://www.icaart.org/).
 
-- [Espinosa Dice N, Kaye M, Ahmed H, Montanez G, "A Probabilistic Theory of Abductive Reasoning." *13th International Conference on Agents and Artificial Intelligence (ICAART 2021)*, Online, Feb 4-6, 2021.](https://www.scitepress.org/Papers/2021/101954/101954.pdf)
+<!-- - [Espinosa Dice N, Kaye M, Ahmed H, Montanez G, "A Probabilistic Theory of Abductive Reasoning." *13th International Conference on Agents and Artificial Intelligence (ICAART 2021)*, Online, Feb 4-6, 2021.](https://www.scitepress.org/Papers/2021/101954/101954.pdf) -->
 
 <!-- 
 

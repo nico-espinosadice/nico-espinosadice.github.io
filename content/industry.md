@@ -5,6 +5,10 @@ menu: main
 weight: 1
 ---
 
+<!-- I am an undergraduate studying mathematics and computer science at [Harvey Mudd College](https://www.hmc.edu/), where I am a [Harvey S. Mudd Merit Scholar](https://www.hmc.edu/admission/afford/scholarships-and-grants/merit-based-scholarships/harvey-s-mudd-merit-award). I am advised by [Professor George D. Montañez](https://www.cs.hmc.edu/~montanez/) and [Professor Dagan Karp](https://www.math.hmc.edu/~dk/). I am a member of the [AMISTAD Lab](https://www.cs.hmc.edu/~montanez/amistad.html), led by Professor Montañez, where I conduct research in theoretical machine learning. I have also worked with [Profesesor Weiqing Gu](https://math.hmc.edu/gu/) in geometric deep learning. I will be graduating from Harvey Mudd College with a B.S. in May 2022. I hope to pursue a Ph.D. in computer science next year focusing on deep learning and reinforcement learning.
+
+Last Updated: November 2021. -->
+
 ## [HMC Clinic Program: Rockerbox](https://www.clinic.cs.hmc.edu/)
 **Project Manager**  
 *September 2021 - Present*  
@@ -20,7 +24,7 @@ I interned at Etsy on their search query understanding (SQU) team. At the time, 
 ## [Viasat](https://www.viasat.com/) {#viasat}
 **Software Engineer Intern**  
 *May 2019 - August 2019*  
-I interned at [Viasat](https://www.viasat.com/) on the NextGen Tactical Data Links team. Our intern team of three designed and built a heads-up display that connected to a Link 16 radio network in order to receive, display, and send information. I built REST API using CherryPy Python Library to enable communication between the display and the Link 16 radio network. I implemented a global runtime manager in C# to handle distribution of data into assets, allowing for live updating of heads-up display. The project was [presented](https://www.linkedin.com/posts/viasat-government_ausa2019-nationalasset-activity-6591002603256115200-3vmt) by Viasat at the [Association of the United States Army (AUSA 2019)](https://www.ausa.org/meet) conference. 
+I interned at [Viasat](https://www.viasat.com/) on the NextGen Tactical Data Links team. Our intern team of three designed and built a heads-up display that connected to a Link 16 radio network in order to receive, display, and send information. I built a REST API using CherryPy Python Library to enable communication between the display and the Link 16 radio network. I implemented a global runtime manager in C# to handle distribution of data into assets, allowing for live updating of heads-up display. The project was [presented](https://www.linkedin.com/posts/viasat-government_ausa2019-nationalasset-activity-6591002603256115200-3vmt) by Viasat at the [Association of the United States Army (AUSA 2019)](https://www.ausa.org/meet) conference. 
 
 
 <!-- I enabled communication between the display and the Link 16 radio network. To achieve two-way communication, I exposed URL routes on a web server that was connected to the Link 16 network, allowing the encrypted Link 16 messages to be acquired through an HTTP GET request. I built a REST API using the [CherryPy](https://cherrypy.org/) Python library; the REST API issued the web requests to the web server. 
