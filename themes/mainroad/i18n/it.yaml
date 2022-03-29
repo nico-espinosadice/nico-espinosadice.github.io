@@ -1,94 +1,60 @@
-# General
 - id: read_more
-  translation: "Continua a leggere…"
-
+  translation: Continua a leggere…
 - id: menu_label
-  translation: "Menu"
-
+  translation: Menu
 - id: sidemenu_title
-  translation: "Menu"
-
-# Post meta
+  translation: Menu
 - id: meta_lastmod
-  translation: "Ultima modifica"
-
+  translation: Ultima modifica
 - id: meta_translations
-  translation: "Traduzioni"
-
-# Table of Contents
+  translation: Traduzioni
 - id: toc_title
-  translation: "Indice"
-
-# Post nav
+  translation: Indice
 - id: post_nav_prev
-  translation: "Precedente"
-
+  translation: Precedente
 - id: post_nav_next
-  translation: "Prossimo"
-
-# Authorbox
+  translation: Prossimo
 - id: authorbox_name
-  translation: "Riguardo {{ .Count }}"
-
-# Sidebar
+  translation: 'Riguardo {{ .Count }}'
 - id: sidebar_warning
-  translation: "ATTENZIONE"
-
+  translation: ATTENZIONE
 - id: sidebar_recommendation
-  translation: "Si prega di attivare almeno un widget della barra laterale."
-
-# Search widget
+  translation: Si prega di attivare almeno un widget della barra laterale.
 - id: search_placeholder
-  translation: "CERCA..."
-
-# Languages widget
+  translation: CERCA...
 - id: languages_title
-  translation: "Lingue"
-
-# Categories widget
+  translation: Lingue
 - id: categories_title
-  translation: "Categorie"
-
-# Recent Posts widget
+  translation: Categorie
 - id: recent_title
-  translation: "Post recenti"
-
-# Social widget
+  translation: Post recenti
 - id: social_title
-  translation: "Social"
-
-# Tags List widget
+  translation: Social
 - id: tags_title
-  translation: "Tag"
-
-# Footer
+  translation: Tag
 - id: footer_credits
-  translation:
-    "Generato con <a href=\"https://gohugo.io/\" rel=\"nofollow noopener\" target=\"_blank\">Hugo</a> e il tema \
-    <a href=\"https://github.com/Vimux/Mainroad/\" rel=\"nofollow noopener\" target=\"_blank\">Mainroad</a>."
-
-# 404
+  translation: >-
+    Generato con <a href="https://gohugo.io/" rel="nofollow noopener"
+    target="_blank">Hugo</a> e il tema <a
+    href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener"
+    target="_blank">Mainroad</a>.
 - id: 404_title
-  translation: "404. Pagina non trovata"
-
+  translation: 404. Pagina non trovata
 - id: 404_text
-  translation:
-    "La pagina che stai cercando sembra essere stata spostata, rimossa o non esiste. Si prega di usare la ricerca o \
-    andare alla"
-
+  translation: >-
+    La pagina che stai cercando sembra essere stata spostata, rimossa o non
+    esiste. Si prega di usare la ricerca o andare alla
 - id: 404_linktext
-  translation: "pagina principale"
-
-# No posts empty state
+  translation: pagina principale
 - id: noposts_warning_title
-  translation: "Non hai ancora nessun post!"
-
+  translation: Non hai ancora nessun post!
 - id: noposts_warning_description
-  translation:
-    "Una volta pubblicato qualcosa in una qualsiasi cartella (sezione) dentro la directory <b>content</b>, apparirà \
-    qui. Solo una sezione (quella con più post) verrà mostrata in modo predefinito nella pagina principale."
-
+  translation: >-
+    Una volta pubblicato qualcosa in una qualsiasi cartella (sezione) dentro la
+    directory <b>content</b>, apparirà qui. Solo una sezione (quella con più
+    post) verrà mostrata in modo predefinito nella pagina principale.
 - id: noposts_warning_tip
-  translation:
-    "<b>Suggerimento:</b> Puoi mostrare quante sezioni vuoi con il parametro \
-    <b><a href=\"https://gohugo.io/functions/where/#mainsections\" rel=\"nofollow noopener\" target=\"_blank\">mainSections</a></b>."
+  translation: >-
+    <b>Suggerimento:</b> Puoi mostrare quante sezioni vuoi con il parametro
+    <b><a href="https://gohugo.io/functions/where/#mainsections" rel="nofollow
+    noopener" target="_blank">mainSections</a></b>.

@@ -1,95 +1,62 @@
-# General
 - id: read_more
-  translation: "Читать далее…"
-
+  translation: Читать далее…
 - id: menu_label
-  translation: "Меню"
-
+  translation: Меню
 - id: sidemenu_title
-  translation: "Меню"
-
-# Post meta
+  translation: Меню
 - id: meta_lastmod
-  translation: "Последнее изменение"
-
+  translation: Последнее изменение
 - id: meta_translations
-  translation: "Переводы"
-
-# Table of Contents
+  translation: Переводы
 - id: toc_title
-  translation: "Содержимое страницы"
-
-# Post nav
+  translation: Содержимое страницы
 - id: post_nav_prev
-  translation: "Назад"
-
+  translation: Назад
 - id: post_nav_next
-  translation: "Вперед"
-
-# Authorbox
+  translation: Вперед
 - id: authorbox_name
-  translation: "Об авторе {{ .Count }}"
-
-# Sidebar
+  translation: 'Об авторе {{ .Count }}'
 - id: sidebar_warning
-  translation: "ВНИМАНИЕ"
-
+  translation: ВНИМАНИЕ
 - id: sidebar_recommendation
-  translation: "Пожалуйста, активируйте как минимум один виджет боковой панели."
-
-# Search widget
+  translation: 'Пожалуйста, активируйте как минимум один виджет боковой панели.'
 - id: search_placeholder
-  translation: "ПОИСК..."
-
-# Languages widget
+  translation: ПОИСК...
 - id: languages_title
-  translation: "Языки"
-
-# Categories widget
+  translation: Языки
 - id: categories_title
-  translation: "Категории"
-
-# Recent Posts widget
+  translation: Категории
 - id: recent_title
-  translation: "Недавние публикации"
-
-# Social widget
+  translation: Недавние публикации
 - id: social_title
-  translation: "Социальные сети"
-
-# Tags List widget
+  translation: Социальные сети
 - id: tags_title
-  translation: "Теги"
-
-# Footer
+  translation: Теги
 - id: footer_credits
-  translation:
-    "Сгенерировано с использованием <a href=\"https://gohugo.io/\" rel=\"nofollow noopener\" target=\"_blank\">Hugo</a> \
-    и темы <a href=\"https://github.com/Vimux/Mainroad/\" rel=\"nofollow noopener\" target=\"_blank\">Mainroad</a>."
-
-# 404
+  translation: >-
+    Сгенерировано с использованием <a href="https://gohugo.io/" rel="nofollow
+    noopener" target="_blank">Hugo</a> и темы <a
+    href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener"
+    target="_blank">Mainroad</a>.
 - id: 404_title
-  translation: "404. Страница не найдена"
-
+  translation: 404. Страница не найдена
 - id: 404_text
-  translation:
-    "Страница, которую вы искали, по-видимому, была перемещена, удалена или не существовала вообще. Пожалуйста, \
-    используйте поиск или перейдите на"
-
+  translation: >-
+    Страница, которую вы искали, по-видимому, была перемещена, удалена или не
+    существовала вообще. Пожалуйста, используйте поиск или перейдите на
 - id: 404_linktext
-  translation: "главную страницу"
-
-# No posts empty state
+  translation: главную страницу
 - id: noposts_warning_title
-  translation: "У вас нет ни одной публикации!"
-
+  translation: У вас нет ни одной публикации!
 - id: noposts_warning_description
-  translation:
-    "Как только вы опубликуете что-нибудь в любой папке (разделе) внутри директории <b>content</b>, оно появится \
-    здесь. По-умолчанию на главной странице будет отображаться только один раздел (с наибольшим количеством \
-    публикаций)."
-
+  translation: >-
+    Как только вы опубликуете что-нибудь в любой папке (разделе) внутри
+    директории <b>content</b>, оно появится здесь. По-умолчанию на главной
+    странице будет отображаться только один раздел (с наибольшим количеством
+    публикаций).
 - id: noposts_warning_tip
-  translation:
-    "<b>Совет:</b> Вы можете отображать сколько угодно разделов с помощью параметра конфигурации \
-    <b><a href=\"https://gohugo.io/functions/where/#mainsections\" rel=\"nofollow noopener\" target=\"_blank\">mainSections</a></b>."
+  translation: >-
+    <b>Совет:</b> Вы можете отображать сколько угодно разделов с помощью
+    параметра конфигурации <b><a
+    href="https://gohugo.io/functions/where/#mainsections" rel="nofollow
+    noopener" target="_blank">mainSections</a></b>.

@@ -1,95 +1,59 @@
-# General
 - id: read_more
-  translation: "Tovább olvas…"
-
+  translation: Tovább olvas…
 - id: menu_label
-  translation: "Menu"
-
+  translation: Menu
 - id: sidemenu_title
-  translation: "Menu"
-
-# Post meta
+  translation: Menu
 - id: meta_lastmod
-  translation: "Utoljára módosítva"
-
+  translation: Utoljára módosítva
 - id: meta_translations
-  translation: "Fordítások"
-
-# Table of Contents
+  translation: Fordítások
 - id: toc_title
-  translation: "Az oldal tartalma"
-
-# Post nav
+  translation: Az oldal tartalma
 - id: post_nav_prev
-  translation: "Előző"
-
+  translation: Előző
 - id: post_nav_next
-  translation: "Következő"
-
-# Authorbox
+  translation: Következő
 - id: authorbox_name
-  translation: "A {{ .Count }} -ról"
-
-# Sidebar
+  translation: 'A {{ .Count }} -ról'
 - id: sidebar_warning
-  translation: "FIGYELMEZTETÉS"
-
+  translation: FIGYELMEZTETÉS
 - id: sidebar_recommendation
-  translation: "Kérjük, aktiváljon legalább egy oldalsáv-modult."
-
-# Search widget
+  translation: 'Kérjük, aktiváljon legalább egy oldalsáv-modult.'
 - id: search_placeholder
-  translation: "KERES..."
-
-# Languages widget
+  translation: KERES...
 - id: languages_title
-  translation: "Nyelvek"
-
-# Categories widget
+  translation: Nyelvek
 - id: categories_title
-  translation: "Kategóriák"
-
-# Recent Posts widget
+  translation: Kategóriák
 - id: recent_title
-  translation: "Legutóbbi bejegyzések"
-
-# Social widget
+  translation: Legutóbbi bejegyzések
 - id: social_title
-  translation: "Közösség"
-
-# Tags List widget
+  translation: Közösség
 - id: tags_title
-  translation: "Cimkék"
-
-# Footer
+  translation: Cimkék
 - id: footer_credits
-  translation:
-    "Létrehozva <a href=\"https://gohugo.io/\" rel=\"nofollow noopener\" target=\"_blank\">Hugo</a> és \
-    <a href=\"https://github.com/Vimux/Mainroad/\" rel=\"nofollow noopener\" target=\"_blank\">Mainroad</a> témával."
-
-# 404
+  translation: >-
+    Létrehozva <a href="https://gohugo.io/" rel="nofollow noopener"
+    target="_blank">Hugo</a> és <a href="https://github.com/Vimux/Mainroad/"
+    rel="nofollow noopener" target="_blank">Mainroad</a> témával.
 - id: 404_title
-  translation: "404. Az oldal nem található"
-
+  translation: 404. Az oldal nem található
 - id: 404_text
-  translation:
-    "Úgy tűnik, hogy a kívánt oldalt áthelyezték, törölték vagy nem létezik. Kérjük, használja a keresést, vagy lépjen \
-    ide"
-
+  translation: >-
+    Úgy tűnik, hogy a kívánt oldalt áthelyezték, törölték vagy nem létezik.
+    Kérjük, használja a keresést, vagy lépjen ide
 - id: 404_linktext
-  translation: "főoldal"
-
-# No posts empty state
+  translation: főoldal
 - id: noposts_warning_title
-  translation: "Még nincs bejegyzésed!"
-
+  translation: Még nincs bejegyzésed!
 - id: noposts_warning_description
-  translation:
-    "Ha valamit a <b>content</b> könyvtár alatti mappába (szakaszba) közzéteszel, az itt jelenik meg. Csak egy szakasz \
-    (a legtöbb hozzászólással) jelenik meg a főoldalon alapértelmezés szerint."
-
+  translation: >-
+    Ha valamit a <b>content</b> könyvtár alatti mappába (szakaszba) közzéteszel,
+    az itt jelenik meg. Csak egy szakasz (a legtöbb hozzászólással) jelenik meg
+    a főoldalon alapértelmezés szerint.
 - id: noposts_warning_tip
-  translation:
-    "<b>Tipp:</b> Megjeleníthet annyi szakaszt, amennyit csak akar a \
-    <b><a href=\"https://gohugo.io/functions/where/#mainsections\" rel=\"nofollow noopener\" target=\"_blank\">mainSections</a></b> \
-    konfigurációs paraméterrel."
+  translation: >-
+    <b>Tipp:</b> Megjeleníthet annyi szakaszt, amennyit csak akar a <b><a
+    href="https://gohugo.io/functions/where/#mainsections" rel="nofollow
+    noopener" target="_blank">mainSections</a></b> konfigurációs paraméterrel.

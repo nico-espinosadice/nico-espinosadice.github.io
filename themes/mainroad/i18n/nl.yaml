@@ -1,93 +1,59 @@
-# General
 - id: read_more
-  translation: "Meer lezen…"
-
+  translation: Meer lezen…
 - id: menu_label
-  translation: "Menu"
-
+  translation: Menu
 - id: sidemenu_title
-  translation: "Menu"
-
-# Post meta
+  translation: Menu
 - id: meta_lastmod
-  translation: "Laatst gewijzigd"
-
+  translation: Laatst gewijzigd
 - id: meta_translations
-  translation: "Vertalingen"
-
-# Table of Contents
+  translation: Vertalingen
 - id: toc_title
-  translation: "Inhoud"
-
-# Post nav
+  translation: Inhoud
 - id: post_nav_prev
-  translation: "Vorige"
-
+  translation: Vorige
 - id: post_nav_next
-  translation: "Volgende"
-
-# Authorbox
+  translation: Volgende
 - id: authorbox_name
-  translation: "Over {{ .Count }}"
-
-# Sidebar
+  translation: 'Over {{ .Count }}'
 - id: sidebar_warning
-  translation: "WAARSCHUWING"
-
+  translation: WAARSCHUWING
 - id: sidebar_recommendation
-  translation: "Activeer minstens één sidebar widget."
-
-# Search widget
+  translation: Activeer minstens één sidebar widget.
 - id: search_placeholder
-  translation: "ZOEKEN..."
-
-# Languages widget
+  translation: ZOEKEN...
 - id: languages_title
-  translation: "Talen"
-
-# Categories widget
+  translation: Talen
 - id: categories_title
-  translation: "Categorieën"
-
-# Recent Posts widget
+  translation: Categorieën
 - id: recent_title
-  translation: "Recente posts"
-
-# Social widget
+  translation: Recente posts
 - id: social_title
-  translation: "Social"
-
-# Tags List widget
+  translation: Social
 - id: tags_title
-  translation: "Tags"
-
-# Footer
+  translation: Tags
 - id: footer_credits
-  translation:
-    "Gegenereerd met <a href=\"https://gohugo.io/\" rel=\"nofollow noopener\" target=\"_blank\">Hugo</a> en het \
-    <a href=\"https://github.com/Vimux/Mainroad/\" rel=\"nofollow noopener\" target=\"_blank\">Mainroad</a> theme."
-
-# 404
+  translation: >-
+    Gegenereerd met <a href="https://gohugo.io/" rel="nofollow noopener"
+    target="_blank">Hugo</a> en het <a href="https://github.com/Vimux/Mainroad/"
+    rel="nofollow noopener" target="_blank">Mainroad</a> theme.
 - id: 404_title
-  translation: "404. Pagina niet gevonden"
-
+  translation: 404. Pagina niet gevonden
 - id: 404_text
-  translation: "De pagina is mogelijk verplaatst, verwijderd of bestaat niet. Gebruik de zoekfunctie of \"ga naar\""
-
+  translation: >-
+    De pagina is mogelijk verplaatst, verwijderd of bestaat niet. Gebruik de
+    zoekfunctie of "ga naar"
 - id: 404_linktext
-  translation: "hoofdpagina"
-
-# No posts empty state
+  translation: hoofdpagina
 - id: noposts_warning_title
-  translation: "Er zijn nog geen posts!"
-
+  translation: Er zijn nog geen posts!
 - id: noposts_warning_description
-  translation:
-    "Zodra je iets post in welke map (sectie) dan ook onder de <b>content</b> directory, zal het hier verschijnen. \
-    Slechts één sectie (met de meeste posts) zal standaard getoond worden op de hoofdpagina."
-
+  translation: >-
+    Zodra je iets post in welke map (sectie) dan ook onder de <b>content</b>
+    directory, zal het hier verschijnen. Slechts één sectie (met de meeste
+    posts) zal standaard getoond worden op de hoofdpagina.
 - id: noposts_warning_tip
-  translation:
-    "<b>Tip:</b> Je kunt zoveel secties laten zien als je wilt met de \
-    <b><a href=\"https://gohugo.io/functions/where/#mainsections\" rel=\"nofollow noopener\" target=\"_blank\">mainSections</a></b> \
-    config parameter."
+  translation: >-
+    <b>Tip:</b> Je kunt zoveel secties laten zien als je wilt met de <b><a
+    href="https://gohugo.io/functions/where/#mainsections" rel="nofollow
+    noopener" target="_blank">mainSections</a></b> config parameter.

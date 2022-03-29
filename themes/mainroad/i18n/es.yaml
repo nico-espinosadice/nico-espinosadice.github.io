@@ -1,92 +1,60 @@
-# General
 - id: read_more
-  translation: "Leer más"
-
+  translation: Leer más
 - id: menu_label
-  translation: "Menú"
-
+  translation: Menú
 - id: sidemenu_title
-  translation: "Menú"
-
-# Post meta
+  translation: Menú
 - id: meta_lastmod
-  translation: "Última modificación"
-
+  translation: Última modificación
 - id: meta_translations
-  translation: "Traducciones"
-
-# Table of Contents
+  translation: Traducciones
 - id: toc_title
-  translation: "Índice"
-
-# Post nav
+  translation: Índice
 - id: post_nav_prev
-  translation: "Anterior"
-
+  translation: Anterior
 - id: post_nav_next
-  translation: "Siguiente"
-
-# Authorbox
+  translation: Siguiente
 - id: authorbox_name
-  translation: "Sobre el autor {{ .Count }}"
-
-# Sidebar
+  translation: 'Sobre el autor {{ .Count }}'
 - id: sidebar_warning
-  translation: "Atención"
-
+  translation: Atención
 - id: sidebar_recommendation
-  translation: "Activa al menos un widget en la barra lateral."
-
-# Search widget
+  translation: Activa al menos un widget en la barra lateral.
 - id: search_placeholder
-  translation: "Buscar..."
-
-# Languages widget
+  translation: Buscar...
 - id: languages_title
-  translation: "Idiomas"
-
-# Categories widget
+  translation: Idiomas
 - id: categories_title
-  translation: "Categorías"
-
-# Recent Posts widget
+  translation: Categorías
 - id: recent_title
-  translation: "Más Recientes"
-
-# Social widget
+  translation: Más Recientes
 - id: social_title
-  translation: "Social"
-
-# Tags List widget
+  translation: Social
 - id: tags_title
-  translation: "Etiquetas"
-
-# Footer
+  translation: Etiquetas
 - id: footer_credits
-  translation:
-    "Generado con <a href=\"https://gohugo.io/\" rel=\"nofollow noopener\" target=\"_blank\">Hugo</a> y \
-    <a href=\"https://github.com/Vimux/Mainroad/\" rel=\"nofollow noopener\" target=\"_blank\">Mainroad</a>."
-
-# 404
+  translation: >-
+    Generado con <a href="https://gohugo.io/" rel="nofollow noopener"
+    target="_blank">Hugo</a> y <a href="https://github.com/Vimux/Mainroad/"
+    rel="nofollow noopener" target="_blank">Mainroad</a>.
 - id: 404_title
-  translation: "404. Página no encontrada"
-
+  translation: 404. Página no encontrada
 - id: 404_text
-  translation: "La página que estás buscando no aparece, no existe o se ha movido a otro lugar."
-
+  translation: >-
+    La página que estás buscando no aparece, no existe o se ha movido a otro
+    lugar.
 - id: 404_linktext
-  translation: "Página principal"
-
-# No posts empty state
+  translation: Página principal
 - id: noposts_warning_title
-  translation: "¡Todavía no hay publicaciones!"
-
+  translation: ¡Todavía no hay publicaciones!
 - id: noposts_warning_description
-  translation:
-    "Una vez que publiques algo en cualquier carpeta (sección) dentro del directorio <b>content</b>, se verá aquí. \
-    Sólo una sección (la que tenga más publicaciones) se mostrará por defecto en la página principal."
-
+  translation: >-
+    Una vez que publiques algo en cualquier carpeta (sección) dentro del
+    directorio <b>content</b>, se verá aquí. Sólo una sección (la que tenga más
+    publicaciones) se mostrará por defecto en la página principal.
 - id: noposts_warning_tip
-  translation:
-    "<b>Aviso:</b> Puedes mostrar tantas secciones como gustes con el parámetro de configuración \
-    <b><a href=\"https://gohugo.io/functions/where/#mainsections\" rel=\"nofollow noopener\" target=\"_blank\">mainSections</a></b>."
+  translation: >-
+    <b>Aviso:</b> Puedes mostrar tantas secciones como gustes con el parámetro
+    de configuración <b><a
+    href="https://gohugo.io/functions/where/#mainsections" rel="nofollow
+    noopener" target="_blank">mainSections</a></b>.
