@@ -3,9 +3,12 @@ title: ""
 draft: false
 ---
 
-I recently graduated from [Harvey Mudd College](https://www.hmc.edu/) with a B.S. in mathematics and computer science. At Harvey Mudd, I was a [Harvey S. Mudd Merit Scholar](https://www.hmc.edu/admission/afford/scholarships-and-grants/merit-based-scholarships/harvey-s-mudd-merit-award), graduated with high distinction, and earned departmental honors in mathematics and computer science. I was advised by [Professor George D. Montañez](https://www.cs.hmc.edu/~montanez/) and [Professor Dagan Karp](https://www.math.hmc.edu/~dk/). I was a member of the [AMISTAD Lab](https://www.cs.hmc.edu/~montanez/amistad.html), led by Professor Montañez, where I conducted research in theoretical machine learning. I also worked with [Profesesor Weiqing Gu](https://math.hmc.edu/gu/) in geometric deep learning. This August, I will be beginning a Ph.D. in Computer Science at [Cornell University](http://cis.cornell.edu/), where I will focus on machine learning. I was fortunate to be awarded the [Hopper-Dean / Bowers CIS Dean's Fellowship](https://diversity.cis.cornell.edu/financial-support/). 
+I recently graduated from [Harvey Mudd College](https://www.hmc.edu/) with a B.S. in mathematics and computer science. At Harvey Mudd, I was a [Harvey S. Mudd Merit Scholar](https://www.hmc.edu/admission/afford/scholarships-and-grants/merit-based-scholarships/harvey-s-mudd-merit-award), graduated with high distinction, and earned departmental honors in mathematics and computer science. I was advised by [Professor George D. Montañez](https://www.cs.hmc.edu/~montanez/) and [Professor Dagan Karp](https://www.math.hmc.edu/~dk/). I was a member of the [AMISTAD Lab](https://www.cs.hmc.edu/~montanez/amistad.html), led by Professor Montañez, where I conducted research in theoretical machine learning. I also worked with [Profesesor Weiqing Gu](https://math.hmc.edu/gu/) in geometric deep learning. 
+
+This August, I will be beginning a Ph.D. in Computer Science at [Cornell University](http://cis.cornell.edu/), where I will focus on machine learning. I was fortunate to be awarded the [Hopper-Dean / Bowers CIS Dean's Fellowship](https://diversity.cis.cornell.edu/financial-support/). 
 
 
+This summer, I will be interning at [Dasion](https://www.data-to-decision.net/), where I will be working as a machine learning engineer.
 
 Last Updated: May 2022.
 
