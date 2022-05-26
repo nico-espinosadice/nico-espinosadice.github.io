@@ -1,6 +1,6 @@
 ---
 title: "Other"
-draft: false
+draft: true
 menu: main
 weight: 3
 resources:

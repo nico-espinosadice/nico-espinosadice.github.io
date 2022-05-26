@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-draft: false
+draft: true
 menu: main
 weight: 2
 ---

@@ -11,8 +11,8 @@ Last Updated: November 2021. -->
 
 ## [HMC Clinic Program: Rockerbox](https://www.clinic.cs.hmc.edu/)
 **Project Manager**  
-*September 2021 - Present*  
-As part of [HMC's Clinic Program](https://www.clinic.cs.hmc.edu/) this academic year, I have served as the project manager of the team working with [Rockerbox](https://www.rockerbox.com/), a marketing attrition company. Our team is building an unsupervised anomaly detection model on time-series marketing data through a dynamic regression model and a long short-term memory (LSTM) autoencoder.
+*September 2021 - May 2022*  
+As part of [HMC's Clinic Program](https://www.clinic.cs.hmc.edu/), I served as the project manager of the team working with [Rockerbox](https://www.rockerbox.com/), a marketing attrition company. Our team built unsupervised anomaly detection models on time-series marketing data through a dynamic regression model, a long short-term memory (LSTM) autoencoder, and a random forest regressor.
 
 
 ## [Etsy](https://www.etsy.com/)

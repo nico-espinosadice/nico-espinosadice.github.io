@@ -3,9 +3,11 @@ title: ""
 draft: false
 ---
 
-I am an undergraduate studying mathematics and computer science at [Harvey Mudd College](https://www.hmc.edu/), where I am a [Harvey S. Mudd Merit Scholar](https://www.hmc.edu/admission/afford/scholarships-and-grants/merit-based-scholarships/harvey-s-mudd-merit-award). I am advised by [Professor George D. Montañez](https://www.cs.hmc.edu/~montanez/) and [Professor Dagan Karp](https://www.math.hmc.edu/~dk/). I am a member of the [AMISTAD Lab](https://www.cs.hmc.edu/~montanez/amistad.html), led by Professor Montañez, where I conduct research in theoretical machine learning. I have also worked with [Profesesor Weiqing Gu](https://math.hmc.edu/gu/) in geometric deep learning. I will be graduating from Harvey Mudd College with a B.S. in May 2022. I will be starting a Ph.D. in computer science next fall.
+I recently graduated from [Harvey Mudd College](https://www.hmc.edu/) with a B.S. in mathematics and computer science. At Harvey Mudd, I was a [Harvey S. Mudd Merit Scholar](https://www.hmc.edu/admission/afford/scholarships-and-grants/merit-based-scholarships/harvey-s-mudd-merit-award), graduated with high distinction, and earned departmental honors in mathematics and computer science. I was advised by [Professor George D. Montañez](https://www.cs.hmc.edu/~montanez/) and [Professor Dagan Karp](https://www.math.hmc.edu/~dk/). I was a member of the [AMISTAD Lab](https://www.cs.hmc.edu/~montanez/amistad.html), led by Professor Montañez, where I conducted research in theoretical machine learning. I also worked with [Profesesor Weiqing Gu](https://math.hmc.edu/gu/) in geometric deep learning. This August, I will be beginning a Ph.D. in Computer Science at [Cornell University](http://cis.cornell.edu/), where I will focus on machine learning. I was fortunate to be awarded the [Hopper-Dean / Bowers CIS Dean's Fellowship](https://diversity.cis.cornell.edu/financial-support/). 
 
-Last Updated: November 2021.
+
+
+Last Updated: May 2022.
 
 <!-- In terms of coursework, I have enjoyed both applied mathematics and computer science courses – including [mathematics of big data](https://math189bigdata.github.io/index.html) and data structures and program development – and theoretical courses such as abstract algebra, and my major GPA is 3.9. This fall, I will be taking courses in artificial intelligence, algorithms, mathematical analysis, and number theory and cryptography. A full list of the coursework that I have taken is available [here](/img/EspinosaDice_Coursework.pdf). -->
 
