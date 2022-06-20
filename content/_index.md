@@ -5,7 +5,9 @@ draft: false
 
 I recently graduated with a B.S. in Mathematics and Computer Science from [Harvey Mudd College](https://www.hmc.edu/). I was advised by [Professor George D. Montañez](https://www.cs.hmc.edu/~montanez/) and [Professor Dagan Karp](https://www.math.hmc.edu/~dk/). I was a member of the [AMISTAD Lab](https://www.cs.hmc.edu/~montanez/amistad.html), led by Professor Montañez, where I conducted research in theoretical machine learning. I also worked with [Profesesor Weiqing Gu](https://math.hmc.edu/gu/) in geometric deep learning. This summer, I will intern at [Dasion](https://www.data-to-decision.net/), where I will work as a machine learning engineer. In August, I begin a Ph.D. in Computer Science at [Cornell University](http://cis.cornell.edu/), where I will focus on machine learning. I will be supported by the [Hopper-Dean / Bowers CIS Dean's Fellowship](https://diversity.cis.cornell.edu/financial-support/).
 
-Last Updated: May 2022.
+[Curriculum vitae.](https://www.nico-espinosadice.xyz/img/CV.pdf)
+
+Last updated: May 2022.
 
 <!-- In terms of coursework, I have enjoyed both applied mathematics and computer science courses – including [mathematics of big data](https://math189bigdata.github.io/index.html) and data structures and program development – and theoretical courses such as abstract algebra, and my major GPA is 3.9. This fall, I will be taking courses in artificial intelligence, algorithms, mathematical analysis, and number theory and cryptography. A full list of the coursework that I have taken is available [here](/img/EspinosaDice_Coursework.pdf). -->
 

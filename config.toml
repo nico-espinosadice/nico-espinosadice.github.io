@@ -52,9 +52,9 @@ theme = "mainroad"
   # email = "ne229@cornell.edu"
 
 # Custom social links
-[[Params.widgets.social.custom]]
-  title = "CV"
-  url = "/img/CV.pdf"
+# [[Params.widgets.social.custom]]
+#  title = "CV"
+#  url = "/img/CV.pdf"
 
 # [[Params.widgets.social.custom]]
 #   title = "Kaggle"
