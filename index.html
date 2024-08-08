@@ -1,0 +1,126 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <title>Nicolas Espinosa Dice</title>
+
+    <meta name="author" content="Nicolas Espinosa Dice">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <link rel="shortcut icon" href="images/favicon/favicon.ico" type="image/x-icon"> -->
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    
+  </head>
+
+  <body>
+    <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+      <tr style="padding:0px">
+        <td style="padding:0px">
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr style="padding:0px">
+              <td style="padding:2.5%;width:63%;vertical-align:middle">
+                <p class="name" style="text-align: center;">
+                  Nicolas Espinosa Dice
+                </p>
+                <p>I am a first year PhD student at <a href="https://cis.cornell.edu/">Cornell University</a>, where I am advised by <a href="https://wensun.github.io/">Wen Sun</a>. My research focuses on reinforcement and imitation learning.  
+                  <br>
+                  <br>
+                  Prior to Cornell, I received by B.S. from <a href="https://www.hmc.edu/">Harvey Mudd College</a>,
+                  where I was advised by <a href="https://www.cs.hmc.edu/~montanez/">George D. Montanez</a> and <a href="https://www.math.hmc.edu/~dk/">Dagan Karp</a>. 
+                  I worked with George D. Montanez in the <a href="https://www.cs.hmc.edu/~montanez/amistad.html">AMISTAD Lab</a>, 
+                  and <a href="https://math.hmc.edu/gu/">Weiqing Gu</a> at <a href="https://data-to-decision.com/">Dasion</a>.
+                  <br>
+                  <br>
+                  More updates coming soon!
+                </p>
+                <p style="text-align:center">
+                  <a href="mailto:ne229@cornell.edu">Email</a> &nbsp;/&nbsp;
+                  <a href="https://scholar.google.com/citations?user=yjPHHb8AAAAJ&hl=en">Google Scholar</a> &nbsp;/&nbsp;
+                  <a href="data/NicolasEspinosaDice-CV.pdf">CV</a> &nbsp;/&nbsp;
+                  <!-- <a href="data/NicolasEspinosaDice-bio.txt">Bio</a> &nbsp;/&nbsp; -->
+				  <!-- <a href="https://www.threads.net/@jonbarron">Threads</a> &nbsp;/&nbsp; -->
+				  <!-- <a href="https://bsky.app/profile/jonbarron.bsky.social">Bluesky</a> &nbsp;/&nbsp; -->
+                  <a href="https://x.com/nico_espinosa_d">Twitter</a> &nbsp;/&nbsp;
+                  <a href="https://github.com/nico-espinosadice">Github</a>
+                </p>
+              </td>
+              <td style="padding:2.5%;width:40%;max-width:40%">
+                <a href="images/nico.jpg"><img style="width:100%;max-width:100%;" alt="profile photo" src="images/nico.jpg" class="hoverZoomLink"></a>
+              </td>
+            </tr>
+          </tbody></table>
+
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+            <td style="padding:20px;width:100%;vertical-align:middle">
+              <h2>Research</h2>
+              <!-- <p>
+                I'm interested in computer vision, deep learning, generative AI, and image processing. Most of my research is about inferring the physical world (shape, motion, color, light, etc) from images, usually with radiance fields. Some papers are <span class="highlight">highlighted</span>.
+              </p> -->
+            </td>
+          </tr>
+        </tbody></table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+
+          <tr onmouseout="nuvo_stop()" onmouseover="nuvo_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <!-- <div class="two" id='nuvo_image'><video  width=100% muted autoplay loop>
+                <source src="images/nuvo.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+                </video></div>
+                <img src='images/nuvo.jpg' width=100%> -->
+              </div>
+              <!-- <script type="text/javascript">
+                function nuvo_start() {
+                  document.getElementById('nuvo_image').style.opacity = "1";
+                }
+      
+                function nuvo_stop() {
+                  document.getElementById('nuvo_image').style.opacity = "0";
+                }
+                nuvo_stop()
+              </script> -->
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://nico-espinosadice.github.io/efficient-IRL/">
+                <span class="papertitle">Efficient Inverse Reinforcement Learning without Compounding Errors</span>
+              </a>
+              <br>
+              <a href="https://nico-espinosadice.github.io/"><strong> Nicolas Espinosa Dice </strong></a>,
+              <a href="https://gokul.dev/">Gokul Swamy</a>,
+              <a href="https://www.sanjibanchoudhury.com/">Sanjiban Choudhury</a>,
+              <a href="https://wensun.github.io/">Wen Sun</a>
+              <br>
+              <em>RLC RLSW, RLBRew</em> 2024
+              <br>
+              <a href="https://nico-espinosadice.github.io/efficient-IRL/">Project Page</a>
+              /
+              <a href="https://nico-espinosadice.github.io/efficient-IRL/static/efficient-irl.pdf">Paper</a>
+              /
+              <a href="https://github.com/nico-espinosadice/garage-fork/tree/main">Code</a>
+              <p></p>
+              <p>
+                There are two seemingly contradictory desiderata for IRL algorithms: (a) preventing the compounding errors that stymie offline approaches like behavioral cloning and (b) avoiding the worst-case exploration complexity of reinforcement learning (RL). Prior work has been able to achieve either (a) or (b) but not both simultaneously. We prove that, under a novel structural condition we term reward-agnostic policy completeness, efficient IRL algorithms do avoid compounding errors, giving us the best of both worlds.
+              </p>
+            </td>
+          </tr>      
+
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          </tbody></table>
+          <table style="width:40%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+              <td style="padding:0px">
+                <br>
+                <p style="text-align:right;font-size:small;">
+                    Template from <a href="https://github.com/jonbarron/website">Jon Barron</a>.
+                </p>
+              </td>
+            </tr>
+          </tbody></table>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
