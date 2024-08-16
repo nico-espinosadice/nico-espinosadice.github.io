@@ -1,0 +1,59 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Nicolas Espinosa Dice'
+theme = 'typo'
+
+[params]
+# Meta description
+description = "PhD student at Cornell University"
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+
+# Breadcrumbs
+breadcrumbs = true
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/nicolas-espinosa-dice/"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/nico-espinosadice"
+
+[[params.social]]
+name = "x"
+url = "https://x.com/nico_espinosa_d"
+
+[[params.social]]
+name = "email"
+url = "mailto:ne229@cornell.edu"
+
+[[params.social]]
+name = "googlescholar"
+url = "https://scholar.google.com/citations?user=yjPHHb8AAAAJ&hl=en"
+
+[[params.social]]
+name = "cv"
+url = ""
+
+# Syntax highligth on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+[markup.goldmark]
+[markup.goldmark.renderer]
+    unsafe = true
+
+# Giscus comments
+[params.giscus]
+enable = false
+repo = "user/repo"
+repoid = "repoId"
+category = "General"
+categoryid = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"
