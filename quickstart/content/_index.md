@@ -6,7 +6,7 @@ draft = false
 <div style="display: flex; align-items: center;">
     <img src="/images/nico.jpg" alt="Nicolas Espinosa Dice" style="width: 25%; margin-right: 20px;">
     <div>
-        I am a first year PhD student at <a href="https://cis.cornell.edu/">Cornell University</a>, where I am advised by <a href="https://cis.cornell.edu/">Wen Sun</a>. My research focuses on reinforcement and imitation learning.  
+        I am a first-year PhD student at <a href="https://cis.cornell.edu/">Cornell University</a>, where I am advised by <a href="https://wensun.github.io/">Wen Sun</a>. My research focuses on reinforcement and imitation learning.  
         <br>
         <br>
         Prior to Cornell, I received by B.S. from <a href="https://www.hmc.edu/">Harvey Mudd College</a>, where I was advised by <a href="https://www.cs.hmc.edu/~montanez/">George D. Montanez</a> and <a href="https://www.math.hmc.edu/~dk/">Dagan Karp</a>.  I worked with George D. Montanez in the <a href="https://www.cs.hmc.edu/~montanez/amistad.html">AMISTAD Lab</a> and <a href="https://math.hmc.edu/gu/">Weiqing Gu</a> at <a href="https://data-to-decision.com/">Dasion</a>.
