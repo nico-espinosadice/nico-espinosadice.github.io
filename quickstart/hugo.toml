@@ -5,7 +5,8 @@ theme = 'typo'
 
 [params]
 # Meta description
-description = "PhD student at Cornell University"
+description = "Computer Science PhD student at Cornell University"
+favicon = "favicon.ico"
 
 # Appearance settings
 theme = 'auto'
@@ -15,10 +16,13 @@ hideHeader = false
 # Breadcrumbs
 breadcrumbs = true
 
-# Social icons
 [[params.social]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/nicolas-espinosa-dice/"
+name = "cv"
+url = "/images/CV.pdf"
+
+[[params.social]]
+name = "googlescholar"
+url = "https://scholar.google.com/citations?user=yjPHHb8AAAAJ&hl=en"
 
 [[params.social]]
 name = "github"
@@ -29,16 +33,18 @@ name = "x"
 url = "https://x.com/nico_espinosa_d"
 
 [[params.social]]
+name = "bluesky"
+url = "https://bsky.app/profile/nico-espinosa-dice.bsky.social"
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/nicolas-espinosa-dice/"
+
+[[params.social]]
 name = "email"
 url = "mailto:ne229@cornell.edu"
 
-[[params.social]]
-name = "googlescholar"
-url = "https://scholar.google.com/citations?user=yjPHHb8AAAAJ&hl=en"
-
-[[params.social]]
-name = "cv"
-url = ""
 
 # Syntax highligth on code blocks
 [markup]

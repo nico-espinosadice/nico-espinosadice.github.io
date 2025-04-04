@@ -20,8 +20,8 @@ Last updated: March 2025
 [**Efficient Imitation under Misspecification**](https://arxiv.org/abs/2503.13162)  
     [**Nicolas Espinosa Dice**](https://nico-espinosadice.github.io/),
     [Sanjiban Choudhury](https://www.sanjibanchoudhury.com/),
-    [Wen Sun](https://wensun.github.io/)  
-    [Gokul Swamy](https://gokul.dev/),
+    [Wen Sun](https://wensun.github.io/), 
+    [Gokul Swamy](https://gokul.dev/)  
     *ICLR 2025*  
     <!-- [Project Page](https://nico-espinosadice.github.io/efficient-IRL/) / -->
     [Paper](https://arxiv.org/abs/2503.13162) /
