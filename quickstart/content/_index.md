@@ -26,7 +26,8 @@ Last updated: March 2025
     <!-- [Project Page](https://nico-espinosadice.github.io/efficient-IRL/) / -->
     [Paper](https://arxiv.org/abs/2503.13162) /
     [Code](https://github.com/nico-espinosadice/garage-fork/tree/main)  
-    <!-- There are two seemingly contradictory desiderata for IRL algorithms: (a) preventing the compounding errors that stymie offline approaches like behavioral cloning and (b) avoiding the worst-case exploration complexity of reinforcement learning (RL). Prior work has been able to achieve either (a) or (b) but not both simultaneously. We prove that, under a novel structural condition we term reward-agnostic policy completeness, efficient IRL algorithms do avoid compounding errors, giving us the best of both worlds. -->
+    We consider the problem of imitation learning under *misspecification*: settings where the learner is fundamentally unable to replicate expert behavior everywhere. This is often true in practice due to differences in observation space and action space expressiveness (e.g. perceptual or morphological differences between robots and humans). Given the learner must make some mistakes in the misspecified setting, interaction with the environment is fundamentally required to figure out which mistakes are particularly costly and lead to *compounding errors*. However, given the computational cost and safety concerns inherent in interaction, we would like to perform as little of it as possible while ensuring we have learned a strong policy. Accordingly, prior work has proposed a flavor of *efficient inverse reinforcement learning* algorithms that merely perform a computationally efficient *local search* procedure with strong guarantees in the realizable setting. We first prove that under a novel structural condition we term *reward-agnostic policy completeness*, these sorts of local-search based IRL algorithms are able to avoid compounding errors. We then consider the question of *where* we should perform local search in the first place, given the learner may not be able to "walk on a tightrope" as well as the expert in the misspecified setting. We prove that in the misspecified setting, it is beneficial to *broaden* the set of states on which local search is performed to include states reachable by good policies that the learner can actually play. We then experimentally explore a variety of sources of misspecification and how *offline* data can be used to effectively broaden where we perform local search from.
+
 
 [**Efficient Inverse Reinforcement Learning without Compounding Errors**](https://nico-espinosadice.github.io/efficient-IRL/)  
     [**Nicolas Espinosa Dice**](https://nico-espinosadice.github.io/),
@@ -34,7 +35,7 @@ Last updated: March 2025
     [Sanjiban Choudhury](https://www.sanjibanchoudhury.com/),
     [Wen Sun](https://wensun.github.io/)  
     *RLC 2024 RLSW, RLBRew*  
-    [Project Page](https://nico-espinosadice.github.io/efficient-IRL/) /
+    [Project Page](https://nico-espinosadice.github.io/compounding-errors-in-IRL/) /
     [Paper](https://nico-espinosadice.github.io/efficient-IRL/static/efficient-irl.pdf) /
     [Code](https://github.com/nico-espinosadice/garage-fork/tree/main)  
     There are two seemingly contradictory desiderata for IRL algorithms: (a) preventing the compounding errors that stymie offline approaches like behavioral cloning and (b) avoiding the worst-case exploration complexity of reinforcement learning (RL). Prior work has been able to achieve either (a) or (b) but not both simultaneously. We prove that, under a novel structural condition we term reward-agnostic policy completeness, efficient IRL algorithms do avoid compounding errors, giving us the best of both worlds.
