@@ -29,7 +29,7 @@ Last updated: March 2025
 
 
 ## <span id="research">Research</span>
-[**Scaling Offline RL via Efficient and Expressive Shortcut Models**](#)  
+[**Scaling Offline RL via Efficient and Expressive Shortcut Models**](/projects/sorl)  
 [**Nicolas Espinosa Dice**](https://nico-espinosadice.github.io/),
 [Yiyi Zhang](https://www.linkedin.com/in/yiyi-zhang-8b673964/),
 [Yiding Chen](https://chenyd.github.io/),

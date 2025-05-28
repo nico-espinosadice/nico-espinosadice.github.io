@@ -1,7 +1,5 @@
 ---
-title: "Scaling Offline RL via 
-
-Efficient and Expressive Shortcut Models"
+title: "Scaling Offline RL via Efficient and Expressive Shortcut Models"
 # date: 2025-05-27
 # layout: "single"
 hide_title: true
