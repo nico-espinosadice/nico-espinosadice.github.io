@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nico-espinosadice.github.io/projects/sorl/</loc>
-  </url><url>
     <loc>https://nico-espinosadice.github.io/categories/</loc>
   </url><url>
     <loc>https://nico-espinosadice.github.io/</loc>
   </url><url>
     <loc>https://nico-espinosadice.github.io/projects/</loc>
+  </url><url>
+    <loc>https://nico-espinosadice.github.io/projects/sorl/</loc>
   </url><url>
     <loc>https://nico-espinosadice.github.io/tags/</loc>
   </url>

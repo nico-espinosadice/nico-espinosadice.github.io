@@ -11,7 +11,7 @@ favicon = "favicon.ico"
 # Appearance settings
 theme = 'auto'
 colorPalette = 'default'
-hideHeader = false
+hideHeader = true
 
 # Breadcrumbs
 breadcrumbs = true

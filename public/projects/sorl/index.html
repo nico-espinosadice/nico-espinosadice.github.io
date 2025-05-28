@@ -15,7 +15,8 @@
 
 <title>
     
-     | Nicolas Espinosa Dice
+    Scaling Offline RL via
+Efficient and Expressive Shortcut Models | Nicolas Espinosa Dice
     
 </title>
 
@@ -61,16 +62,6 @@
 
     
 
-    <h1 class="header-title">Nicolas Espinosa Dice</h1>
-
-    <div class="flex">
-        
-
-        
-    </div>
-
-    
-
 </div>
 
       </header>
@@ -80,26 +71,13 @@
 
 
 
-
-<div class="breadcrumbs">
-    
-    <a href="/">Home</a>
-    <span class="breadcrumbs-separator"> > </span>
-    
-    <a href="/projects/">Projects</a>
-    <span class="breadcrumbs-separator"> > </span>
-    
-    <a class="breadcrumbs-current" href="/projects/sorl/"></a>
-</div>
-
-
 <div >
 
   <div class="single-intro-container">
 
     
-
-    <h1 class="single-title"></h1>
+    
+  
     
 
     
@@ -122,51 +100,45 @@
 
   <div class="single-content">
     <center>
-<h1 id="your-neurips-2025-paper-title">Your NeurIPS 2025 Paper Title</h1>
-<p><strong>Your Name</strong>, <strong>Co-author Name</strong><br>
-<em>Your University</em>, <em>Co-author University</em></p>
-<p><a href="#">Paper</a> · <a href="#">Code</a> · <a href="#">Poster</a></p>
+<h1 style="text-align: center;">
+  Scaling Offline RL via <br>
+  Efficient and Expressive Shortcut Models
+</h1>
+<p><strong><a href="https://nico-espinosadice.github.io/">Nicolas Espinosa Dice</a><sup>1</sup></strong>,
+<strong><a href="https://www.linkedin.com/in/yiyi-zhang-8b673964/">Yiyi Zhang</a><sup>1</sup></strong>,
+<strong><a href="https://chenyd.github.io/">Yiding Chen</a><sup>1</sup></strong>,
+<strong><a href="https://www.linkedin.com/in/bradleyzguo">Bradley Guo</a><sup>1</sup></strong>,
+<strong><a href="https://owenoertell.com/">Owen Oertell</a><sup>1</sup></strong>,
+<strong><a href="https://gokul.dev/">Gokul Swamy</a><sup>2</sup></strong>,
+<strong><a href="https://xkianteb.github.io/">Kianté Brantley</a><sup>3</sup></strong>,
+<strong><a href="https://wensun.github.io/">Wen Sun</a><sup>1</sup></strong></p>
+<p><sup>1</sup>Cornell University,
+<sup>2</sup>Carnegie Mellon University,
+<sup>3</sup>Harvard University</p>
+<p><a href="#">Paper</a> | <a href="#">Code</a> | <a href="#">Thread</a></p>
 </center>
-<hr>
-<h2 id="overview">Overview</h2>
-<p>Write a short 2–3 sentence summary of your paper&rsquo;s contribution and impact.</p>
 <h2 id="abstract">Abstract</h2>
-<p>Paste the abstract from your NeurIPS submission.</p>
-<h2 id="highlights">Highlights</h2>
-<ul>
-<li>🎯 Clear bullet points summarizing your method</li>
-<li>🚀 Performance benchmarks or contributions</li>
-<li>🤖 Key methods or novelties</li>
-</ul>
-<h2 id="method-figure">Method Figure</h2>
-<p>
+<p>Diffusion and flow models have emerged as powerful generative approaches capable of modeling diverse and multimodal behavior. However, applying these models to offline reinforcement learning (RL) remains challenging due to the iterative nature of their noise sampling processes, making policy optimization difficult. In this paper, we introduce <em>Scalable Offline Reinforcement Learning</em> (<code style="color: #4bacc6;">SORL</code>), a new offline RL algorithm that leverages shortcut models – a novel class of generative models – to scale both training and inference. <code style="color: #4bacc6;">SORL</code>&rsquo;s policy can capture complex data distributions and can be trained simply and efficiently in a one-stage training procedure. At test time, <code style="color: #4bacc6;">SORL</code> introduces both sequential and parallel inference scaling by using the learned Q-function as a verifier. We demonstrate that <code style="color: #4bacc6;">SORL</code> achieves strong performance across a range of offline RL tasks and exhibits positive scaling behavior with increased test-time compute.</p>
+<!-- ## Highlights
 
+- 🎯 Clear bullet points summarizing your method
+- 🚀 Performance benchmarks or contributions
+- 🤖 Key methods or novelties -->
+<!-- ## Method Figure
 
+![Overview Figure](images/neurips2025/method.png)
 
+*Caption for the figure, if needed.* -->
+<!-- ## Citation
 
+```bibtex
+@inproceedings{your2025paper,
+  title     = {Your Paper Title},
+  author    = {Your Name and Coauthor},
+  booktitle = {NeurIPS},
+  year      = {2025}
+} -->
 
-
-
-
-
-
-<figure class="">
-
-    <div>
-        <img loading="lazy" alt="Overview Figure" src=" images/neurips2025/method.png">
-    </div>
-
-    
-</figure></p>
-<p><em>Caption for the figure, if needed.</em></p>
-<h2 id="citation">Citation</h2>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bibtex" data-lang="bibtex"><span style="display:flex;"><span><span style="color:#666;font-weight:bold;font-style:italic">@inproceedings</span>{your2025paper,
-</span></span><span style="display:flex;"><span>  title     = <span style="color:#666;font-style:italic">{Your Paper Title}</span>,
-</span></span><span style="display:flex;"><span>  author    = <span style="color:#666;font-style:italic">{Your Name and Coauthor}</span>,
-</span></span><span style="display:flex;"><span>  booktitle = <span style="color:#666;font-style:italic">{NeurIPS}</span>,
-</span></span><span style="display:flex;"><span>  year      = <span style="color:#666;font-style:italic">{2025}</span>
-</span></span><span style="display:flex;"><span>}
-</span></span></code></pre></div>
     
   </div>
 

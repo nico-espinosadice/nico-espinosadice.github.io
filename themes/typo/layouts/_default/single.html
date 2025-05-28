@@ -1,16 +1,18 @@
 {{ define "main" }}
 
-{{/* Breadcrumbs */}}
-
-{{ partial "breadcrumbs.html" . }}
+{{ if not (.Param "hide_breadcrumbs") }}
+  {{ partial "breadcrumbs.html" . }}
+{{ end }}
 
 <div {{ if .Param "autonumber" }} class="autonumber" {{ end }}>
 
   <div class="single-intro-container">
 
     {{/* Title and Summary */}}
-
+    {{ if not (.Param "hide_title") }}
     <h1 class="single-title">{{ .Title }}</h1>
+    {{ end }}
+  
     {{ with .Param "summary" }}
     <p class="single-summary">{{ . }}</p>
     {{ end }}

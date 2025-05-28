@@ -8,11 +8,12 @@
     <language>en-us</language>
     <atom:link href="https://nico-espinosadice.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>Scaling Offline RL via
+Efficient and Expressive Shortcut Models</title>
       <link>https://nico-espinosadice.github.io/projects/sorl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nico-espinosadice.github.io/projects/sorl/</guid>
-      <description> Your NeurIPS 2025 Paper Title Your Name, Co-author Name&#xA;Your University, Co-author University&#xA;Paper · Code · Poster&#xA;Overview Write a short 2–3 sentence summary of your paper&amp;rsquo;s contribution and impact.&#xA;Abstract Paste the abstract from your NeurIPS submission.&#xA;Highlights 🎯 Clear bullet points summarizing your method 🚀 Performance benchmarks or contributions 🤖 Key methods or novelties Method Figure Caption for the figure, if needed.&#xA;Citation @inproceedings{your2025paper, title = {Your Paper Title}, author = {Your Name and Coauthor}, booktitle = {NeurIPS}, year = {2025} } </description>
+      <description>Scaling Offline RL via Efficient and Expressive Shortcut Models Nicolas Espinosa Dice1, Yiyi Zhang1, Yiding Chen1, Bradley Guo1, Owen Oertell1, Gokul Swamy2, Kianté Brantley3, Wen Sun1&#xA;1Cornell University, 2Carnegie Mellon University, 3Harvard University&#xA;Paper | Code | Thread&#xA;Abstract Diffusion and flow models have emerged as powerful generative approaches capable of modeling diverse and multimodal behavior. However, applying these models to offline reinforcement learning (RL) remains challenging due to the iterative nature of their noise sampling processes, making policy optimization difficult.</description>
     </item>
   </channel>
 </rss>

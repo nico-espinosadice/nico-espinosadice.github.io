@@ -13,10 +13,35 @@ draft = false
     </div>
 </div>
 
+<center>
+
+[CV](/images/CV.pdf) |
+[Google Scholar](https://scholar.google.com/citations?user=yjPHHb8AAAAJ&hl=en) |
+[Twitter/X](https://x.com/nico_espinosa_d) |
+[Bluesky](https://bsky.app/profile/nico-espinosa-dice.bsky.social) |
+[GitHub](https://github.com/nico-espinosadice) |
+[LinkedIn](https://www.linkedin.com/in/nicolas-espinosa-dice/) |
+[Email](mailto:ne229@cornell.edu)
+
+</center>
+
 Last updated: March 2025
-<!-- I have been fortunate to work with the following great collaborators: Kiante Brantley, Yiding Chen, Gokul Swamy, Owen Oertell, Yiyi Zhang, Sanjiban Choudhury.  -->
+
 
 ## <span id="research">Research</span>
+[**Scaling Offline RL via Efficient and Expressive Shortcut Models**](#)  
+[**Nicolas Espinosa Dice**](https://nico-espinosadice.github.io/),
+[Yiyi Zhang](https://www.linkedin.com/in/yiyi-zhang-8b673964/),
+[Yiding Chen](https://chenyd.github.io/),
+[Bradley Guo](https://www.linkedin.com/in/bradleyzguo),
+[Owen Oertell](https://owenoertell.com/),
+[Gokul Swamy](https://gokul.dev/),
+[Kianté Brantley](https://xkianteb.github.io/),
+[Wen Sun](https://wensun.github.io/)  
+*Preprint*  
+[Paper](#) | [Code](#) | [Project Page](/projects/sorl) | [Thread](#)  
+Diffusion and flow models have emerged as powerful generative approaches capable of modeling diverse and multimodal behavior. However, applying these models to offline reinforcement learning (RL) remains challenging due to the iterative nature of their noise sampling processes, making policy optimization difficult. In this paper, we introduce *Scalable Offline Reinforcement Learning* (<code style="color: #4bacc6;">SORL</code>), a new offline RL algorithm that leverages shortcut models – a novel class of generative models – to scale both training and inference. <code style="color: #4bacc6;">SORL</code>'s policy can capture complex data distributions and can be trained simply and efficiently in a one-stage training procedure. At test time, <code style="color: #4bacc6;">SORL</code> introduces both sequential and parallel inference scaling by using the learned Q-function as a verifier. We demonstrate that <code style="color: #4bacc6;">SORL</code> achieves strong performance across a range of offline RL tasks and exhibits positive scaling behavior with increased test-time compute.
+
 [**Efficient Imitation Under Misspecification**](https://arxiv.org/abs/2503.13162)  
     [**Nicolas Espinosa Dice**](https://nico-espinosadice.github.io/),
     [Sanjiban Choudhury](https://www.sanjibanchoudhury.com/),
