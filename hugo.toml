@@ -1,11 +1,11 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://nico-espinosadice.github.io/'
 languageCode = 'en-us'
 title = 'Nicolas Espinosa Dice'
 theme = 'typo'
 
 [params]
 # Meta description
-description = "Computer Science PhD student at Cornell University"
+description = "Computer Science PhD student at Cornell University studying reinforcement learning"
 favicon = "favicon.ico"
 
 # Appearance settings
