@@ -28,7 +28,7 @@ hide_site_title: true
 <sup>3</sup>Harvard University
 
 
-[Paper](#) | [Code](https://github.com/nico-espinosadice/SORL) | [Thread](#)
+[Paper](https://arxiv.org/abs/2505.22866) | [Code](https://github.com/nico-espinosadice/SORL) | [Thread](#)
 
 </center>
 
