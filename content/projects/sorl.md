@@ -48,12 +48,13 @@ Diffusion and flow models have emerged as powerful generative approaches capable
 
 *Caption for the figure, if needed.* -->
 
-<!-- ## Citation
+## Citation
 
 ```bibtex
-@inproceedings{your2025paper,
-  title     = {Your Paper Title},
-  author    = {Your Name and Coauthor},
-  booktitle = {NeurIPS},
-  year      = {2025}
-} -->
+@article{espinosa2025scaling,
+  title={Scaling Offline RL via Efficient and Expressive Shortcut Models},
+  author={Espinosa-Dice, Nicolas and Zhang, Yiyi and Chen, Yiding and Guo, Bradley and Oertell, Owen and Swamy, Gokul and Brantley, Kiante and Sun, Wen},
+  journal={arXiv preprint arXiv:2505.22866},
+  year={2025}
+}
+```
