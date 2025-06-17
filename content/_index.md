@@ -3,9 +3,16 @@ title = 'Home'
 draft = false
 +++
 
+<div style="display: flex; align-items: center;">
+    <img src="/images/nico.jpg" alt="Nicolas Espinosa Dice" style="width: 25%; margin-right: 20px;">
+    <div>
+        I am a second-year PhD student at <a href="https://cis.cornell.edu/">Cornell University</a>, where I am advised by <a href="https://wensun.github.io/">Wen Sun</a> and supported by the <a href="https://nsfgrfp.org/">NSF GRFP</a> and the <a href="https://gradschool.cornell.edu/diversity-inclusion/signature-initiatives/graduate-school-deans-scholars/">Hopper-Dean and Bowers Fellowship</a>. My research focuses on reinforcement learning, imitation learning, and generative models.
+    </div>
+</div>
+
 Prior to Cornell, I received a B.S. in Mathematics and Computer Science from [Harvey Mudd College](https://www.hmc.edu/), where I was advised by [George D. Montanez](https://www.cs.hmc.edu/~montanez/) and [Dagan Karp](https://www.math.hmc.edu/~dk/) and supported by the [Harvey S. Mudd Merit Award](https://www.hmc.edu/admission/afford/scholarships-and-grants/merit-based-scholarships/harvey-s-mudd-merit-award/). I worked with George D. Montanez in the [AMISTAD Lab](https://www.cs.hmc.edu/~montanez/amistad.html) on theoretical machine learning, receiving the [Computer Science Research Award](https://www.hmc.edu/cs/student-awards/) and [Clinic Program Individual Award](https://www.hmc.edu/cs/student-awards/). I then worked with [Weiqing Gu](https://math.hmc.edu/gu/) at [Dasion](https://data-to-decision.com/).
 
-Last updated: May 2025
+Last updated: June 2025
 
 <center>
 
