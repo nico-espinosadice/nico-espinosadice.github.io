@@ -26,6 +26,11 @@ Last updated: June 2025
 
 </center>
 
+## <span id="blog">Blog Posts</span>
+[**Scaling Offline Reinforcement Learning at Test Time**](https://kempnerinstitute.harvard.edu/research/deeper-learning/scaling-offline-reinforcement-learning-at-test-time/)  
+*Kempner Institute Deeper Learning Blog*  
+We introduce a novel approach to scaling reinforcement learning (RL) during training and inference. Inspired by the recent work on LLM test-time scaling, we demonstrate how greater test-time compute can be leveraged to improve the performance of expressive, flow-based policies in RL.
+
 
 ## <span id="research">Research</span>
 [**Scaling Offline RL via Efficient and Expressive Shortcut Models**](https://arxiv.org/abs/2505.22866)  
