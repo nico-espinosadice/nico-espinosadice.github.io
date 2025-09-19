@@ -44,7 +44,7 @@ We introduce a novel approach to scaling reinforcement learning (RL) during trai
 [Gokul Swamy](https://gokul.dev/),
 [Kianté Brantley](https://xkianteb.github.io/),
 [Wen Sun](https://wensun.github.io/)  
-*Preprint*  
+*NeurIPS 2025*  
 [Paper](https://arxiv.org/abs/2505.22866) | [Code](https://github.com/nico-espinosadice/SORL) | [Project Page](/projects/sorl) | [Thread](https://x.com/nico_espinosa_d/status/1933209680609788170) | [Blog Post](https://kempnerinstitute.harvard.edu/research/deeper-learning/scaling-offline-reinforcement-learning-at-test-time/)  
 Diffusion and flow models have emerged as powerful generative approaches capable of modeling diverse and multimodal behavior. However, applying these models to offline reinforcement learning (RL) remains challenging due to the iterative nature of their noise sampling processes, making policy optimization difficult. In this paper, we introduce *Scalable Offline Reinforcement Learning* (<code style="color: #4bacc6;">SORL</code>), a new offline RL algorithm that leverages shortcut models – a novel class of generative models – to scale both training and inference. <code style="color: #4bacc6;">SORL</code>'s policy can capture complex data distributions and can be trained simply and efficiently in a one-stage training procedure. At test time, <code style="color: #4bacc6;">SORL</code> introduces both sequential and parallel inference scaling by using the learned Q-function as a verifier. We demonstrate that <code style="color: #4bacc6;">SORL</code> achieves strong performance across a range of offline RL tasks and exhibits positive scaling behavior with increased test-time compute.
 
