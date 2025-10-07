@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en-us"
+  dir="ltr">
+
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" href="/favicon.png" type="image/png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+<meta name="description" content="" />
+
+<title>
+    
+    Expressive Value Learning for Scalable Offline RL | Nicolas Espinosa Dice
+    
+</title>
+
+<link rel="canonical" href="https://nico-espinosadice.github.io/projects/evor/" />
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/assets/combined.min.5b2c9f6a437c659438d5c8bbb17a60874752575c7b06feb8c346af5c63f3c9fc.css" media="all">
+
+
+
+
+  
+
+
+
+
+ 
+  </head>
+
+  
+
+  
+  
+  
+
+  <body class="auto">
+
+    <div class="content">
+      <header>
+        
+
+<div class="header">
+
+    
+
+</div>
+
+      </header>
+
+      <main class="main">
+        
+
+
+
+<div >
+
+  <div class="single-intro-container">
+
+    
+    
+  
+    
+
+    
+
+    <p class="single-readtime">
+      
+
+      
+    </p>
+
+  </div>
+
+  
+
+  
+
+  
+
+  
+
+  <div class="single-content">
+    <center>
+<h1 style="text-align: center;">
+  Expressive Value Learning for<br>Scalable Offline Reinforcement Learning
+</h1>
+<p><a href="https://nico-espinosadice.github.io/">Nicolas Espinosa Dice</a><sup>1</sup>,
+<a href="https://xkianteb.github.io/">Kianté Brantley</a><sup>2</sup>,
+<a href="https://wensun.github.io/">Wen Sun</a><sup>1</sup></p>
+<p><sup>1</sup>Cornell University,
+<sup>2</sup>Harvard University</p>
+<p>Pre-print coming soon</p>
+<!-- [Paper](https://arxiv.org/abs/2505.22866) | [Code](https://github.com/nico-espinosadice/SORL) | [Thread](https://x.com/nico_espinosa_d/status/1933209680609788170) -->
+</center>
+<h2 id="abstract">Abstract</h2>
+<p>Reinforcement learning (RL) is a powerful paradigm for learning to make sequences of decisions. However, RL has yet to be fully leveraged in robotics, principally due to its lack of scalability. <em>Offline</em> RL offers a promising avenue by training agents on large, diverse datasets, avoiding the costly real-world interactions of <em>online</em> RL.
+Scaling offline RL to increasingly complex datasets requires expressive generative models such as diffusion and flow matching. However, existing methods typically depend on either backpropagation through time (BPTT), which is computationally prohibitive, or policy distillation, which introduces compounding errors and limits scalability to larger base policies.
+In this paper, we consider the question of how to develop a scalable offline RL approach without relying on distillation or backpropagation through time. We introduce <em>Expressive Value Learning for Scalable Offline RL</em> (<code style="color: #4bacc6;">EVOR</code>): a scalable offline RL approach that integrates <em>both</em> expressive policies <em>and</em> expressive value functions. <code style="color: #4bacc6;">EVOR</code> learns an optimal, regularized $Q$-function via flow matching during training. At inference-time, <code style="color: #4bacc6;">EVOR</code> performs inference-time policy extraction via rejection sampling against the expressive value function, enabling efficient optimization, regularization, and compute-scalable search <em>without retraining</em>.
+Empirically, we show that <code style="color: #4bacc6;">EVOR</code> outperforms baselines on a diverse set of offline RL tasks, demonstrating the benefit of integrating expressive value learning into offline RL.</p>
+
+    
+  </div>
+
+  
+
+  
+  
+
+<div class="single-pagination">
+    <hr />
+
+    <div class="flex">
+
+        <div class="single-pagination-prev">
+            
+            <div class="single-pagination-container-prev">
+                <div class="single-pagination-text">←</div>
+                <div class="single-pagination-text">
+                    <a href="/projects/sorl/">
+                        Scaling Offline RL via Efficient and Expressive Shortcut Models
+                    </a>
+                </div>
+            </div>
+            
+        </div>
+
+        <div class="single-pagination-next">
+            
+        </div>
+
+    </div>
+
+    <hr />
+</div>
+
+
+
+  
+
+  
+
+  
+  <div class="back-to-top">
+    <a href="#top">
+      back to top
+    </a>
+  </div>
+  
+
+</div>
+
+
+      </main>
+    </div>
+
+    <footer>
+      <p>Powered by
+    <a href="https://gohugo.io/">Hugo</a>
+    and
+    <a href="https://github.com/tomfran/typo">tomfran/typo</a>
+</p>
+
+
+    </footer>
+
+  </body>
+
+  <script>
+
+  function isAuto() {
+    return document.body.classList.contains("auto");
+  }
+
+  function setTheme() {
+    if (!isAuto()) {
+      return
+    }
+
+    document.body.classList.remove("auto");
+    let cls = "light";
+    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      cls = "dark";
+    }
+
+    document.body.classList.add(cls);
+  }
+
+  function invertBody() {
+    document.body.classList.toggle("dark");
+    document.body.classList.toggle("light");
+  }
+
+  if (isAuto()) {
+    window.matchMedia('(prefers-color-scheme: dark)').addListener(invertBody);
+  }
+
+  setTheme();
+
+</script>
+
+</html>
