@@ -12,7 +12,7 @@
       <link>https://nico-espinosadice.github.io/projects/evor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nico-espinosadice.github.io/projects/evor/</guid>
-      <description>Expressive Value Learning for&#xA;Scalable Offline Reinforcement Learning Nicolas Espinosa Dice1, Kianté Brantley2, Wen Sun1&#xA;1Cornell University, 2Harvard University&#xA;Pre-print coming soon&#xA;Abstract Reinforcement learning (RL) is a powerful paradigm for learning to make sequences of decisions. However, RL has yet to be fully leveraged in robotics, principally due to its lack of scalability. Offline RL offers a promising avenue by training agents on large, diverse datasets, avoiding the costly real-world interactions of online RL.</description>
+      <description>Expressive Value Learning for&#xA;Scalable Offline Reinforcement Learning Nicolas Espinosa Dice1, Kianté Brantley2, Wen Sun1&#xA;1Cornell University, 2Harvard University&#xA;Paper | Code | Thread&#xA;Abstract RL has yet to be fully leveraged in robotics, principally due to its lack of scalability. Offline RL offers a promising avenue by training agents on large, diverse datasets, avoiding the costly real-world interactions of online RL. Scaling offline RL to increasingly complex datasets requires expressive generative models such as diffusion and flow matching.</description>
     </item>
     <item>
       <title>Scaling Offline RL via Efficient and Expressive Shortcut Models</title>
