@@ -103,13 +103,12 @@
 <em>Kempner Institute Deeper Learning Blog</em><br>
 We introduce a novel approach to scaling reinforcement learning (RL) during training and inference. Inspired by the recent work on LLM test-time scaling, we demonstrate how greater test-time compute can be leveraged to improve the performance of expressive, flow-based policies in RL.</p>
 <h2 id="span-idresearchresearchspan"><span id="research">Research</span></h2>
-<!-- [**Expressive Value Learning forScalable Offline Reinforcement Learning**](https://arxiv.org/abs/2505.22866)   -->
-<p><strong>Expressive Value Learning for Scalable Offline Reinforcement Learning</strong><br>
+<p><strong><a href="https://arxiv.org/abs/2510.08218">Expressive Value Learning for Scalable Offline Reinforcement Learning</a></strong><br>
 <a href="https://nico-espinosadice.github.io/"><strong>Nicolas Espinosa Dice</strong></a>,
 <a href="https://xkianteb.github.io/">Kianté Brantley</a>,
 <a href="https://wensun.github.io/">Wen Sun</a><br>
 <em>Pre-print</em><br>
-Paper | <a href="https://github.com/nico-espinosadice/expressive-value-learning">Code</a> | <a href="/projects/evor">Project Page</a> | Thread<br>
+<a href="https://arxiv.org/abs/2510.08218">Paper</a> | <a href="https://github.com/nico-espinosadice/expressive-value-learning">Code</a> | <a href="/projects/evor">Project Page</a> | Thread<br>
 RL has yet to be fully leveraged in robotics, principally due to its lack of scalability. <em>Offline</em> RL offers a promising avenue by training agents on large, diverse datasets, avoiding the costly real-world interactions of <em>online</em> RL. Scaling offline RL to increasingly complex datasets requires expressive generative models such as diffusion and flow matching. However, existing methods typically depend on either backpropagation through time (BPTT), which is computationally prohibitive, or policy distillation, which limits scalability to larger base policies.
 We consider the question of how to develop a scalable offline RL approach without relying on distillation or BPTT. We introduce <em>Expressive Value Learning for Scalable Offline RL</em> (<code style="color: #4bacc6;">EVOR</code>): a scalable offline RL approach that integrates <em>both</em> expressive policies <em>and</em> expressive value functions. <code style="color: #4bacc6;">EVOR</code> learns an optimal, regularized Q-function via flow matching during training. At inference-time, <code style="color: #4bacc6;">EVOR</code> performs inference-time policy extraction via rejection sampling against the expressive value function, enabling efficient optimization, regularization, and compute-scalable search <em>without retraining</em>.</p>
 <p><a href="https://arxiv.org/abs/2505.22866"><strong>Scaling Offline RL via Efficient and Expressive Shortcut Models</strong></a><br>

@@ -35,13 +35,12 @@ We introduce a novel approach to scaling reinforcement learning (RL) during trai
 
 
 ## <span id="research">Research</span>
-<!-- [**Expressive Value Learning forScalable Offline Reinforcement Learning**](https://arxiv.org/abs/2505.22866)   -->
-**Expressive Value Learning for Scalable Offline Reinforcement Learning**  
+**[Expressive Value Learning for Scalable Offline Reinforcement Learning](https://arxiv.org/abs/2510.08218)**  
 [**Nicolas Espinosa Dice**](https://nico-espinosadice.github.io/),
 [Kianté Brantley](https://xkianteb.github.io/),
 [Wen Sun](https://wensun.github.io/)  
 *Pre-print*  
-Paper | [Code](https://github.com/nico-espinosadice/expressive-value-learning) | [Project Page](/projects/evor) | Thread  
+[Paper](https://arxiv.org/abs/2510.08218) | [Code](https://github.com/nico-espinosadice/expressive-value-learning) | [Project Page](/projects/evor) | Thread  
 RL has yet to be fully leveraged in robotics, principally due to its lack of scalability. *Offline* RL offers a promising avenue by training agents on large, diverse datasets, avoiding the costly real-world interactions of *online* RL. Scaling offline RL to increasingly complex datasets requires expressive generative models such as diffusion and flow matching. However, existing methods typically depend on either backpropagation through time (BPTT), which is computationally prohibitive, or policy distillation, which limits scalability to larger base policies.
 We consider the question of how to develop a scalable offline RL approach without relying on distillation or BPTT. We introduce *Expressive Value Learning for Scalable Offline RL* (<code style="color: #4bacc6;">EVOR</code>): a scalable offline RL approach that integrates *both* expressive policies *and* expressive value functions. <code style="color: #4bacc6;">EVOR</code> learns an optimal, regularized Q-function via flow matching during training. At inference-time, <code style="color: #4bacc6;">EVOR</code> performs inference-time policy extraction via rejection sampling against the expressive value function, enabling efficient optimization, regularization, and compute-scalable search *without retraining*. 
 
