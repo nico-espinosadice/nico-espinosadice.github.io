@@ -69,14 +69,12 @@ Diffusion and flow models have emerged as powerful generative approaches capable
     We consider the problem of imitation learning under *misspecification*: settings where the learner is fundamentally unable to replicate expert behavior. Building on prior work in *efficient inverse reinforcement learning* through computationally efficient *local search* procedures, we first prove that under a novel structural condition we term *reward-agnostic policy completeness*, these sorts of local-search based IRL algorithms are able to avoid compounding errors, even in the misspecified setting. We then consider the question of *where* we should perform local search in the first place, given the learner may not be able to "walk on a tightrope" as well as the expert in the misspecified setting. We prove that in the misspecified setting, it is beneficial to *broaden* the set of states on which local search is performed to include states reachable by good policies that the learner can actually play. We then experimentally explore a variety of sources of misspecification and how *offline* data can be used to effectively broaden where we perform local search from.
 
 
-[**Efficient Inverse Reinforcement Learning Without Compounding Errors**](https://nico-espinosadice.github.io/efficient-IRL/)  
+[**Efficient Inverse Reinforcement Learning Without Compounding Errors**](https://rlbrew-workshop.github.io/papers/15_efficient_inverse_reinforcemen.pdf)  
     [**Nicolas Espinosa Dice**](https://nico-espinosadice.github.io/),
     [Gokul Swamy](https://gokul.dev/),
     [Sanjiban Choudhury](https://www.sanjibanchoudhury.com/),
     [Wen Sun](https://wensun.github.io/)  
     *RLC 2024 RLSW, RLBRew*  
-    [Paper](https://nico-espinosadice.github.io/efficient-IRL/static/efficient-irl.pdf) |
-    [Code](https://github.com/nico-espinosadice/garage-fork/tree/main) |
-    [Project Page](https://nico-espinosadice.github.io/compounding-errors-in-IRL/)  
+    [Paper](https://rlbrew-workshop.github.io/papers/15_efficient_inverse_reinforcemen.pdf)  
     There are two seemingly contradictory desiderata for IRL algorithms: (a) preventing the compounding errors that stymie offline approaches like behavioral cloning and (b) avoiding the worst-case exploration complexity of reinforcement learning (RL). Prior work has been able to achieve either (a) or (b) but not both simultaneously. We prove that, under a novel structural condition we term reward-agnostic policy completeness, efficient IRL algorithms do avoid compounding errors, giving us the best of both worlds.
 
