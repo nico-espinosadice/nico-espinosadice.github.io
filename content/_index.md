@@ -4,21 +4,21 @@ draft = false
 +++
 
 <div style="display: flex; align-items: center;">
-    <img src="/images/nico.jpg" alt="Nicolas Espinosa Dice" style="width: 25%; margin-right: 20px;">
+    <img src="/nico.jpg" alt="Nicolas Espinosa Dice" style="width: 25%; margin-right: 20px;">
     <div>
-        I am a third-year PhD student at <a href="https://cis.cornell.edu/">Cornell University</a>, where I am advised by <a href="https://wensun.github.io/">Wen Sun</a> and supported by the <a href="https://nsfgrfp.org/">NSF Graduate Research Fellowship Program</a> and the <a href="https://gradschool.cornell.edu/diversity-inclusion/signature-initiatives/graduate-school-deans-scholars/">Hopper-Dean and Bowers Fellowship</a>. My research interests are in reinforcement learning, imitation learning, and generative models. 
+        I am a third-year PhD student in Computer Science at <a href="https://cis.cornell.edu/">Cornell University</a>, where I am advised by <a href="https://wensun.github.io/">Wen Sun</a> and supported by the <a href="https://nsfgrfp.org/">NSF Graduate Research Fellowship Program</a> and the <a href="https://gradschool.cornell.edu/diversity-inclusion/signature-initiatives/graduate-school-deans-scholars/">Hopper-Dean and Bowers Fellowship</a>. My research interests are in reinforcement learning, imitation learning, and generative models. 
     </div>
 </div>
 
 My research focuses on how agents can learn from both interaction and offline data: what can we do *offline* (i.e. without interaction) to better learn/explore/fine-tune *online* (i.e. with interaction)? We've looked at [how to scale offline RL at test-time](https://arxiv.org/abs/2505.22866) by building agents with *flexible* inference-time compute budgets. We've also considered [how to do imitation learning in the misspecified setting](https://arxiv.org/abs/2503.13162) (i.e. when the expert policy is unrealizable, due to human/robot embodiment mismatches, distinct perception, etc). Currently, we're working on approaches to *efficiently* fine-tune large base policies (e.g. VLAs) in settings with *limited* online interaction. 
 
-Prior to Cornell, I received a B.S. in Mathematics and Computer Science from [Harvey Mudd College](https://www.hmc.edu/), where I was advised by [George D. Montanez](https://www.cs.hmc.edu/~montanez/) and [Dagan Karp](https://www.math.hmc.edu/~dk/) and supported by the [Harvey S. Mudd Merit Award](https://www.hmc.edu/admission/afford/scholarships-and-grants/merit-based-scholarships/harvey-s-mudd-merit-award/). I worked with George D. Montanez in the [AMISTAD Lab](https://www.cs.hmc.edu/~montanez/amistad.html) on theoretical machine learning, receiving the [Computer Science Research Award](https://www.hmc.edu/cs/student-awards/) and [Clinic Program Individual Award](https://www.hmc.edu/cs/student-awards/). I later worked as a research scientist at [Dasion](https://data-to-decision.com/), advised by [Weiqing Gu](https://math.hmc.edu/gu/).
+Prior to Cornell, I received a B.S. in Mathematics and Computer Science from [Harvey Mudd College](https://www.hmc.edu/), where I was advised by [George D. Montanez](https://www.cs.hmc.edu/~montanez/) and [Dagan Karp](https://www.math.hmc.edu/~dk/) and supported by the [Harvey S. Mudd Merit Award](https://www.hmc.edu/admission/afford/scholarships-and-grants/merit-based-scholarships/harvey-s-mudd-merit-award/). I worked with George D. Montanez in the [AMISTAD Lab](https://www.cs.hmc.edu/~montanez/amistad.html) on theoretical machine learning, receiving the [Computer Science Research Award](https://www.hmc.edu/cs/student-awards/) and [Clinic Program Individual Award](https://www.hmc.edu/cs/student-awards/). After undergrad, I worked as a research scientist at [Dasion](https://data-to-decision.com/), advised by [Weiqing Gu](https://math.hmc.edu/gu/).
 
-Last updated: September 2025
+Last updated: October 2025
 
 <center>
 
-[CV](/images/CV.pdf) |
+[CV](/CV.pdf) |
 [Google Scholar](https://scholar.google.com/citations?user=yjPHHb8AAAAJ&hl=en) |
 [Twitter/X](https://x.com/nico_espinosa_d) |
 [Bluesky](https://bsky.app/profile/nico-espinosa-dice.bsky.social) |

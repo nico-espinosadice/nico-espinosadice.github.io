@@ -18,7 +18,7 @@ breadcrumbs = true
 
 [[params.social]]
 name = "cv"
-url = "/images/CV.pdf"
+url = "/CV.pdf"
 
 [[params.social]]
 name = "googlescholar"
