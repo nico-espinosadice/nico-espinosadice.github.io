@@ -107,11 +107,16 @@
 <a href="https://wensun.github.io/">Wen Sun</a><sup>1</sup></p>
 <p><sup>1</sup>Cornell University,
 <sup>2</sup>Harvard University</p>
-<p><a href="https://arxiv.org/abs/2510.08218">Paper</a> | <a href="https://github.com/nico-espinosadice/expressive-value-learning">Code</a> | Thread</p>
+<p><a href="https://arxiv.org/abs/2510.08218">Paper</a> | <a href="https://github.com/nico-espinosadice/expressive-value-learning">Code</a> | <a href="https://x.com/nico_espinosa_d/status/1980267395756245153">Thread</a></p>
 </center>
-<h2 id="abstract">Abstract</h2>
+<h2 id="abstracthttpsarxivorgabs251008218"><a href="https://arxiv.org/abs/2510.08218">Abstract</a></h2>
 <p>RL has yet to be fully leveraged in robotics, principally due to its lack of scalability. <em>Offline</em> RL offers a promising avenue by training agents on large, diverse datasets, avoiding the costly real-world interactions of <em>online</em> RL. Scaling offline RL to increasingly complex datasets requires expressive generative models such as diffusion and flow matching. However, existing methods typically depend on either backpropagation through time (BPTT), which is computationally prohibitive, or policy distillation, which limits scalability to larger base policies.
 We consider the question of how to develop a scalable offline RL approach without relying on distillation or BPTT. We introduce <em>Expressive Value Learning for Scalable Offline RL</em> (<code style="color: #4bacc6;">EVOR</code>): a scalable offline RL approach that integrates <em>both</em> expressive policies <em>and</em> expressive value functions. <code style="color: #4bacc6;">EVOR</code> learns an optimal, regularized Q-function via flow matching during training. At inference-time, <code style="color: #4bacc6;">EVOR</code> performs inference-time policy extraction via rejection sampling against the expressive value function, enabling efficient optimization, regularization, and compute-scalable search <em>without retraining</em>.</p>
+<h2 id="threadhttpsxcomnico_espinosa_dstatus1980267395756245153"><a href="https://x.com/nico_espinosa_d/status/1980267395756245153">Thread</a></h2>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Recently, we’ve seen a lot of promising work showing how generative models like flow matching can be used for RL policies.<br><br>Why don’t we do the same for value functions?</p>&mdash; Nicolas Espinosa Dice (@nico_espinosa_d) <a href="https://twitter.com/nico_espinosa_d/status/1980267395756245153?ref_src=twsrc%5Etfw">October 20, 2025</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 <h2 id="citation">Citation</h2>
 <div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bibtex" data-lang="bibtex"><span style="display:flex;"><span><span style="color:#666;font-weight:bold;font-style:italic">@article</span>{espinosa2025expressive,
 </span></span><span style="display:flex;"><span>  title=<span style="color:#666;font-style:italic">{Expressive Value Learning for Scalable Offline Reinforcement Learning}</span>,
