@@ -3,6 +3,7 @@ title: "Efficient Imitation - Redirecting to GitHub Repository"
 date: 2025-01-27T00:00:00Z
 draft: false
 redirect: "https://github.com/nico-espinosadice/garage-fork/tree/main"
+aliases: ["/efficient-irl/"]
 ---
 
 <meta http-equiv="refresh" content="0; url=https://github.com/nico-espinosadice/garage-fork/tree/main">
