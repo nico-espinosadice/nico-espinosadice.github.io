@@ -28,11 +28,6 @@ Last updated: October 2025
 
 </center>
 
-## <span id="blog">Blog Posts</span>
-[**Scaling Offline Reinforcement Learning at Test Time**](https://kempnerinstitute.harvard.edu/research/deeper-learning/scaling-offline-reinforcement-learning-at-test-time/)  
-*Kempner Institute Deeper Learning Blog*  
-We introduce a novel approach to scaling reinforcement learning (RL) during training and inference. Inspired by the recent work on LLM test-time scaling, we demonstrate how greater test-time compute can be leveraged to improve the performance of expressive, flow-based policies in RL.
-
 
 ## <span id="research">Research</span>
 **[Expressive Value Learning for Scalable Offline Reinforcement Learning](https://arxiv.org/abs/2510.08218)**  
@@ -78,3 +73,22 @@ Diffusion and flow models have emerged as powerful generative approaches capable
     [Paper](https://rlbrew-workshop.github.io/papers/15_efficient_inverse_reinforcemen.pdf)  
     There are two seemingly contradictory desiderata for IRL algorithms: (a) preventing the compounding errors that stymie offline approaches like behavioral cloning and (b) avoiding the worst-case exploration complexity of reinforcement learning (RL). Prior work has been able to achieve either (a) or (b) but not both simultaneously. We prove that, under a novel structural condition we term reward-agnostic policy completeness, efficient IRL algorithms do avoid compounding errors, giving us the best of both worlds.
 
+## <span id="projects">Projects</span>
+**[Learning Network Cyber Agents](https://arxiv.org/abs/2510.08218)**  
+[Nate Foster](https://www.cs.cornell.edu/~jnfoster/),
+[Wen Sun](https://wensun.github.io/),
+[Hossein Hojjat](https://www.linkedin.com/in/hossein-hojjat/),
+[Guy Amir](https://www.linkedin.com/in/guy-amir-4b0a0b1a/),
+[Yiding Chen](https://chenyd.github.io/),
+[**Nicolas Espinosa Dice**](https://nico-espinosadice.github.io/),
+[Benjamin Ylvisaker](https://www.linkedin.com/in/benjamin-ylvisaker/),
+[Rebecca Liu](https://www.linkedin.com/in/rebecca-liu/),
+[Yiyi Zhang](https://www.linkedin.com/in/yiyi-zhang-8b673964/)  
+*Cornell's LANCER Team on DARPA's Cyber Agents for Security Testing and Learning Environments (CASTLE) Project*  
+[LANCER](https://lancer-project.org/) | [CASTLE](https://www.darpa.mil/research/programs/cyber-agents-for-security-testing-and-learning-environments) | [Cornell Chronicle Article](https://news.cornell.edu/stories/2023/10/computer-scientists-awarded-3m-bolster-cybersecurity) | [Announcement](https://www.darpa.mil/news/2022/castle-computer-networks) | [News Article](https://militaryembedded.com/cyber/cybersecurity/cybersecurity-program-from-darpa-seeks-to-use-ai-to-counter-threats)  
+Developing autonomous cyber-agents for network security through fine-tuning LLM-based agents with reinforcement learning.
+
+## <span id="blog">Blog Posts</span>
+[**Scaling Offline Reinforcement Learning at Test Time**](https://kempnerinstitute.harvard.edu/research/deeper-learning/scaling-offline-reinforcement-learning-at-test-time/)  
+*Kempner Institute Deeper Learning Blog*  
+We introduce a novel approach to scaling reinforcement learning (RL) during training and inference. Inspired by the recent work on LLM test-time scaling, we demonstrate how greater test-time compute can be leveraged to improve the performance of expressive, flow-based policies in RL.

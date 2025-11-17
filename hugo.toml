@@ -16,6 +16,23 @@ hideHeader = true
 # Breadcrumbs
 breadcrumbs = true
 
+# Menu items
+[[params.menu]]
+name = "Home"
+url = "/"
+
+[[params.menu]]
+name = "Research"
+url = "/#research"
+
+[[params.menu]]
+name = "Projects"
+url = "/#projects"
+
+[[params.menu]]
+name = "Blog Posts"
+url = "/#blog"
+
 [[params.social]]
 name = "cv"
 url = "/CV.pdf"
