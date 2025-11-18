@@ -1,6 +1,6 @@
 baseURL = 'https://nico-espinosadice.github.io/'
 languageCode = 'en-us'
-title = 'Nicolas Espinosa Dice'
+title = 'Nicolas Espinosa-Dice'
 theme = 'typo'
 
 [params]

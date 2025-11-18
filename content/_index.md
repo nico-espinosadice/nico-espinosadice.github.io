@@ -4,7 +4,7 @@ draft = false
 +++
 
 <div style="display: flex; align-items: center;">
-    <img src="/nico.jpg" alt="Nicolas Espinosa Dice" style="width: 25%; margin-right: 20px;">
+    <img src="/nico.jpg" alt="Nicolas Espinosa-Dice" style="width: 25%; margin-right: 20px;">
     <div>
         I am a third-year PhD student in Computer Science at <a href="https://cis.cornell.edu/">Cornell University</a>, where I am advised by <a href="https://wensun.github.io/">Wen Sun</a> and supported by the <a href="https://nsfgrfp.org/">NSF Graduate Research Fellowship Program</a> and the <a href="https://gradschool.cornell.edu/diversity-inclusion/signature-initiatives/graduate-school-deans-scholars/">Hopper-Dean and Bowers Fellowship</a>. My research interests are in reinforcement learning, imitation learning, and generative models. 
     </div>
@@ -31,7 +31,7 @@ Last updated: October 2025
 
 ## <span id="research">Research</span>
 **[Expressive Value Learning for Scalable Offline Reinforcement Learning](https://arxiv.org/abs/2510.08218)**  
-[**Nicolas Espinosa Dice**](https://nico-espinosadice.github.io/),
+[**Nicolas Espinosa-Dice**](https://nico-espinosadice.github.io/),
 [Kianté Brantley](https://xkianteb.github.io/),
 [Wen Sun](https://wensun.github.io/)  
 *Pre-print*  
@@ -40,7 +40,7 @@ RL has yet to be fully leveraged in robotics, principally due to its lack of sca
 We consider the question of how to develop a scalable offline RL approach without relying on distillation or BPTT. We introduce *Expressive Value Learning for Scalable Offline RL* (<code style="color: #4bacc6;">EVOR</code>): a scalable offline RL approach that integrates *both* expressive policies *and* expressive value functions. <code style="color: #4bacc6;">EVOR</code> learns an optimal, regularized Q-function via flow matching during training. At inference-time, <code style="color: #4bacc6;">EVOR</code> performs inference-time policy extraction via rejection sampling against the expressive value function, enabling efficient optimization, regularization, and compute-scalable search *without retraining*. 
 
 [**Scaling Offline RL via Efficient and Expressive Shortcut Models**](https://arxiv.org/abs/2505.22866)  
-[**Nicolas Espinosa Dice**](https://nico-espinosadice.github.io/),
+[**Nicolas Espinosa-Dice**](https://nico-espinosadice.github.io/),
 [Yiyi Zhang](https://www.linkedin.com/in/yiyi-zhang-8b673964/),
 [Yiding Chen](https://chenyd.github.io/),
 [Bradley Guo](https://www.linkedin.com/in/bradleyzguo),
@@ -53,7 +53,7 @@ We consider the question of how to develop a scalable offline RL approach withou
 Diffusion and flow models have emerged as powerful generative approaches capable of modeling diverse and multimodal behavior. However, applying these models to offline reinforcement learning (RL) remains challenging due to the iterative nature of their noise sampling processes, making policy optimization difficult. In this paper, we introduce *Scalable Offline Reinforcement Learning* (<code style="color: #4bacc6;">SORL</code>), a new offline RL algorithm that leverages shortcut models – a novel class of generative models – to scale both training and inference. <code style="color: #4bacc6;">SORL</code>'s policy can capture complex data distributions and can be trained simply and efficiently in a one-stage training procedure. At test time, <code style="color: #4bacc6;">SORL</code> introduces both sequential and parallel inference scaling by using the learned Q-function as a verifier. We demonstrate that <code style="color: #4bacc6;">SORL</code> achieves strong performance across a range of offline RL tasks and exhibits positive scaling behavior with increased test-time compute.
 
 [**Efficient Imitation Under Misspecification**](https://arxiv.org/abs/2503.13162)  
-    [**Nicolas Espinosa Dice**](https://nico-espinosadice.github.io/),
+    [**Nicolas Espinosa-Dice**](https://nico-espinosadice.github.io/),
     [Sanjiban Choudhury](https://www.sanjibanchoudhury.com/),
     [Wen Sun](https://wensun.github.io/), 
     [Gokul Swamy](https://gokul.dev/)  
@@ -65,7 +65,7 @@ Diffusion and flow models have emerged as powerful generative approaches capable
 
 
 [**Efficient Inverse Reinforcement Learning Without Compounding Errors**](https://rlbrew-workshop.github.io/papers/15_efficient_inverse_reinforcemen.pdf)  
-    [**Nicolas Espinosa Dice**](https://nico-espinosadice.github.io/),
+    [**Nicolas Espinosa-Dice**](https://nico-espinosadice.github.io/),
     [Gokul Swamy](https://gokul.dev/),
     [Sanjiban Choudhury](https://www.sanjibanchoudhury.com/),
     [Wen Sun](https://wensun.github.io/)  
@@ -80,7 +80,7 @@ Diffusion and flow models have emerged as powerful generative approaches capable
 [Hossein Hojjat](https://www.linkedin.com/in/hossein-hojjat/),
 [Guy Amir](https://www.linkedin.com/in/guy-amir-4b0a0b1a/),
 [Yiding Chen](https://chenyd.github.io/),
-[**Nicolas Espinosa Dice**](https://nico-espinosadice.github.io/),
+[**Nicolas Espinosa-Dice**](https://nico-espinosadice.github.io/),
 [Benjamin Ylvisaker](https://www.linkedin.com/in/benjamin-ylvisaker/),
 [Rebecca Liu](https://www.linkedin.com/in/rebecca-liu/),
 [Yiyi Zhang](https://www.linkedin.com/in/yiyi-zhang-8b673964/)  

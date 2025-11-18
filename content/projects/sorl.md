@@ -14,7 +14,7 @@ hide_site_title: true
   Efficient and Expressive Shortcut Models
 </h1>
 
-[Nicolas Espinosa Dice](https://nico-espinosadice.github.io/)<sup>1</sup>,
+[Nicolas Espinosa-Dice](https://nico-espinosadice.github.io/)<sup>1</sup>,
 [Yiyi Zhang](https://www.linkedin.com/in/yiyi-zhang-8b673964/)<sup>1</sup>,
 [Yiding Chen](https://chenyd.github.io/)<sup>1</sup>,
 [Bradley Guo](https://www.linkedin.com/in/bradleyzguo)<sup>1</sup>,

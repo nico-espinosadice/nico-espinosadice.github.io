@@ -13,7 +13,7 @@ hide_site_title: true
   Expressive Value Learning for<br>Scalable Offline Reinforcement Learning
 </h1>
 
-[Nicolas Espinosa Dice](https://nico-espinosadice.github.io/)<sup>1</sup>,
+[Nicolas Espinosa-Dice](https://nico-espinosadice.github.io/)<sup>1</sup>,
 [Kianté Brantley](https://xkianteb.github.io/)<sup>2</sup>,
 [Wen Sun](https://wensun.github.io/)<sup>1</sup>
 
