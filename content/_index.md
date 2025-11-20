@@ -6,11 +6,13 @@ draft = false
 <div style="display: flex; align-items: center;">
     <img src="/nico.jpg" alt="Nicolas Espinosa-Dice" style="width: 25%; margin-right: 20px;">
     <div>
-        I am a third-year PhD student in Computer Science at <a href="https://cis.cornell.edu/">Cornell University</a>, where I am advised by <a href="https://wensun.github.io/">Wen Sun</a> and supported by the <a href="https://nsfgrfp.org/">NSF Graduate Research Fellowship Program</a> and the <a href="https://gradschool.cornell.edu/diversity-inclusion/signature-initiatives/graduate-school-deans-scholars/">Hopper-Dean and Bowers Fellowship</a>. My research interests are in reinforcement learning, imitation learning, and generative models. 
+        I am a third-year PhD student in Computer Science at <a href="https://cis.cornell.edu/">Cornell University</a>, where I am advised by <a href="https://wensun.github.io/">Wen Sun</a> and supported by the <a href="https://nsfgrfp.org/">NSF Graduate Research Fellowship Program</a> and the <a href="https://gradschool.cornell.edu/diversity-inclusion/signature-initiatives/graduate-school-deans-scholars/">Hopper-Dean and Bowers Fellowship</a>. 
+        My research interests are in <b>reinforcement learning</b>, <b>imitation learning</b>, and <b>generative models</b>.
+        Currently, my research focuses on how agents/robots can learn from both <em>interaction</em> and <em>offline</em> data: what can we do <em>offline</em> (i.e. without interaction) to better learn/explore/fine-tune <em>online</em> (i.e. with interaction)?
     </div>
 </div>
 
-My research focuses on how agents can learn from both interaction and offline data: what can we do *offline* (i.e. without interaction) to better learn/explore/fine-tune *online* (i.e. with interaction)? We've looked at [how to scale offline RL at test-time](https://arxiv.org/abs/2505.22866) by building agents with *flexible* inference-time compute budgets. We've also considered [how to do imitation learning in the misspecified setting](https://arxiv.org/abs/2503.13162) (i.e. when the expert policy is unrealizable, due to human/robot embodiment mismatches, distinct perception, etc). Currently, we're working on approaches to *efficiently* fine-tune large base policies (e.g. VLAs) in settings with *limited* online interaction. 
+ Some of my past work has looked at [how to scale offline RL at test-time](https://arxiv.org/abs/2505.22866) by building agents with *flexible* inference-time compute budgets. We've also considered [how to do imitation learning when the expert is unrealizable](https://arxiv.org/abs/2503.13162) (e.g. due to human/robot embodiment mismatches, distinct perception, etc). I've also worked on [fine-tuning LLM-based agents for network security](#projects). Currently, we're working on approaches to *efficiently* fine-tune large base policies (e.g. VLAs) in settings with *limited* online interaction. 
 
 Prior to Cornell, I received a B.S. in Mathematics and Computer Science from [Harvey Mudd College](https://www.hmc.edu/), where I was advised by [George D. Montanez](https://www.cs.hmc.edu/~montanez/) and [Dagan Karp](https://www.math.hmc.edu/~dk/) and supported by the [Harvey S. Mudd Merit Award](https://www.hmc.edu/admission/afford/scholarships-and-grants/merit-based-scholarships/harvey-s-mudd-merit-award/). I worked with George D. Montanez in the [AMISTAD Lab](https://www.cs.hmc.edu/~montanez/amistad.html) on theoretical machine learning, receiving the [Computer Science Research Award](https://www.hmc.edu/cs/student-awards/) and [Clinic Program Individual Award](https://www.hmc.edu/cs/student-awards/). I later worked as a research scientist at [Dasion](https://data-to-decision.com/), advised by [Weiqing Gu](https://math.hmc.edu/gu/).
 
@@ -74,7 +76,7 @@ Diffusion and flow models have emerged as powerful generative approaches capable
     There are two seemingly contradictory desiderata for IRL algorithms: (a) preventing the compounding errors that stymie offline approaches like behavioral cloning and (b) avoiding the worst-case exploration complexity of reinforcement learning (RL). Prior work has been able to achieve either (a) or (b) but not both simultaneously. We prove that, under a novel structural condition we term reward-agnostic policy completeness, efficient IRL algorithms do avoid compounding errors, giving us the best of both worlds.
 
 ## <span id="projects">Projects</span>
-**[Learning Network Cyber Agents](https://arxiv.org/abs/2510.08218)**  
+**[Learning Network Cyber Agents](https://lancer-project.org/)**  
 [Nate Foster](https://www.cs.cornell.edu/~jnfoster/),
 [Wen Sun](https://wensun.github.io/),
 [Hossein Hojjat](https://www.linkedin.com/in/hossein-hojjat/),
