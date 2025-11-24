@@ -77,15 +77,15 @@ Diffusion and flow models have emerged as powerful generative approaches capable
 
 ## <span id="projects">Projects</span>
 **[Learning Network Cyber Agents](https://lancer-project.org/)**  
-[Nate Foster](https://www.cs.cornell.edu/~jnfoster/),
-[Wen Sun](https://wensun.github.io/),
-[Hossein Hojjat](https://www.linkedin.com/in/hossein-hojjat/),
-[Guy Amir](https://www.linkedin.com/in/guy-amir-4b0a0b1a/),
-[Yiding Chen](https://chenyd.github.io/),
-[**Nicolas Espinosa-Dice**](https://nico-espinosadice.github.io/),
 [Benjamin Ylvisaker](https://www.linkedin.com/in/benjamin-ylvisaker/),
 [Rebecca Liu](https://www.linkedin.com/in/rebecca-liu/),
-[Yiyi Zhang](https://www.linkedin.com/in/yiyi-zhang-8b673964/)  
+[Yiyi Zhang](https://www.linkedin.com/in/yiyi-zhang-8b673964/),
+[**Nicolas Espinosa-Dice**](https://nico-espinosadice.github.io/),
+[Yiding Chen](https://chenyd.github.io/),
+[Guy Amir](https://www.linkedin.com/in/guy-amir-4b0a0b1a/),
+[Hossein Hojjat](https://www.linkedin.com/in/hossein-hojjat/),
+[Wen Sun](https://wensun.github.io/)<sup>PI</sup>, 
+[Nate Foster](https://www.cs.cornell.edu/~jnfoster/)<sup>PI</sup>  
 *Cornell's LANCER Team on DARPA's Cyber Agents for Security Testing and Learning Environments (CASTLE) Project*  
 [LANCER](https://lancer-project.org/) | [CASTLE](https://www.darpa.mil/research/programs/cyber-agents-for-security-testing-and-learning-environments) | [Cornell Chronicle Article](https://news.cornell.edu/stories/2023/10/computer-scientists-awarded-3m-bolster-cybersecurity) | [Announcement](https://www.darpa.mil/news/2022/castle-computer-networks) | [News Article](https://militaryembedded.com/cyber/cybersecurity/cybersecurity-program-from-darpa-seeks-to-use-ai-to-counter-threats)  
 Developing autonomous cyber-agents for network security through fine-tuning LLM-based agents with reinforcement learning.
