@@ -4,7 +4,9 @@ on:
   push:
     branches:
       - master
-      - reports-robotwin   # encrypted RoboTwin campaign reports, pushed by robotwin-workspace reports/_build/publish.sh
+  # Dispatched by robotwin-workspace reports/_build/publish.sh after it force-pushes the encrypted
+  # RoboTwin campaign reports to branch reports-robotwin (a push there cannot trigger this file).
+  workflow_dispatch:
 
 jobs:
   deploy:
