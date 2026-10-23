@@ -5,7 +5,7 @@ on:
     branches:
       - master
   # Dispatched by robotwin-workspace reports/_build/publish.sh after it force-pushes the encrypted
-  # RoboTwin campaign reports to branch reports-robotwin (a push there cannot trigger this file).
+  # campaign reports to a reports-* branch (a push there cannot trigger this file).
   workflow_dispatch:
 
 jobs:
@@ -17,17 +17,20 @@ jobs:
         with:
           ref: master
 
-      # The reports branch is a single-commit branch holding StatiCrypt-encrypted pages. It is served
-      # verbatim under /reports/robotwin/ (Hugo copies static/ as is). Tolerate a missing branch.
-      - name: Add the RoboTwin reports
+      # Each reports branch is a single-commit branch holding StatiCrypt-encrypted pages, pushed by the
+      # publisher of that workspace. It is served verbatim under /reports/<name>/ (Hugo copies static/
+      # as is). A missing branch is tolerated.
+      - name: Add the campaign reports
         run: |
-          rm -rf static/reports/robotwin
-          if git clone --quiet --depth 1 --branch reports-robotwin "https://github.com/${GITHUB_REPOSITORY}.git" static/reports/robotwin; then
-            rm -rf static/reports/robotwin/.git
-            echo "reports at $(cat static/reports/robotwin/version.txt 2>/dev/null || echo unknown)"
-          else
-            echo "no reports-robotwin branch; building without reports"
-          fi
+          for name in robotwin vla; do
+            rm -rf "static/reports/$name"
+            if git clone --quiet --depth 1 --branch "reports-$name" "https://github.com/${GITHUB_REPOSITORY}.git" "static/reports/$name"; then
+              rm -rf "static/reports/$name/.git"
+              echo "$name reports at $(cat "static/reports/$name/version.txt" 2>/dev/null || echo unknown)"
+            else
+              echo "no reports-$name branch; building without it"
+            fi
+          done
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
