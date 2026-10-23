@@ -3,7 +3,8 @@ name: Deploy Hugo site to GitHub Pages
 on:
   push:
     branches:
-      - master  # or 'master' if that's your default branch
+      - master
+      - reports-robotwin   # encrypted RoboTwin campaign reports, pushed by robotwin-workspace reports/_build/publish.sh
 
 jobs:
   deploy:
@@ -11,6 +12,20 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          ref: master
+
+      # The reports branch is a single-commit branch holding StatiCrypt-encrypted pages. It is served
+      # verbatim under /reports/robotwin/ (Hugo copies static/ as is). Tolerate a missing branch.
+      - name: Add the RoboTwin reports
+        run: |
+          rm -rf static/reports/robotwin
+          if git clone --quiet --depth 1 --branch reports-robotwin "https://github.com/${GITHUB_REPOSITORY}.git" static/reports/robotwin; then
+            rm -rf static/reports/robotwin/.git
+            echo "reports at $(cat static/reports/robotwin/version.txt 2>/dev/null || echo unknown)"
+          else
+            echo "no reports-robotwin branch; building without reports"
+          fi
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
