@@ -77,4 +77,28 @@
   if (handed && index) { box.value = handed; run(); box.focus(); }
   document.addEventListener("click", function (e) { if (!e.target.closest(".search")) list.hidden = true; });
   document.addEventListener("keydown", function (e) { if (e.key === "Escape") list.hidden = true; if (e.key === "/" && document.activeElement !== box && !/INPUT|TEXTAREA/.test(document.activeElement.tagName)) { e.preventDefault(); box.focus(); } });
+
+  // Clip lightbox: click a frame to enlarge its video (same source, so no second decrypt). Esc or a click outside closes.
+  var frames = Array.prototype.slice.call(document.querySelectorAll(".vid .frame"));
+  if (frames.length) {
+    var lb = document.createElement("div"); lb.id = "lightbox"; lb.hidden = true;
+    lb.innerHTML = '<div class="bar"><b id="lb-name"></b><span id="lb-sub"></span><button type="button" id="lb-close">Close</button></div><div class="stage"><video controls autoplay loop muted playsinline></video></div>';
+    document.body.appendChild(lb);
+    var lv = lb.querySelector("video");
+    function hide() { lb.hidden = true; lv.pause(); lv.removeAttribute("src"); lv.load(); }
+    frames.forEach(function (fr) {
+      fr.addEventListener("click", function (e) {
+        var v = fr.querySelector("video"); if (!v) return;
+        var src = v.currentSrc || v.getAttribute("src"); if (!src) return;
+        if (e.target === v && e.offsetY > v.clientHeight - 40) return;  // the native controls strip stays usable
+        e.preventDefault(); lv.src = src; lv.currentTime = v.currentTime || 0;
+        document.getElementById("lb-name").textContent = fr.getAttribute("data-name") || "";
+        document.getElementById("lb-sub").textContent = fr.getAttribute("data-sub") || "";
+        lb.hidden = false; lv.play().catch(function () {});
+      });
+    });
+    document.getElementById("lb-close").addEventListener("click", hide);
+    lb.addEventListener("click", function (e) { if (e.target === lb || e.target.classList.contains("stage")) hide(); });
+    document.addEventListener("keydown", function (e) { if (e.key === "Escape" && !lb.hidden) hide(); });
+  }
 })();

@@ -202,3 +202,34 @@ table.data tfoot td { font-weight: 600; border-top: 2px solid var(--line); }
 .prose figure { margin: 0.8em 0; } .prose figcaption { font-size: 0.85rem; color: var(--muted); }
 .prose .example { border: 1px solid var(--line); border-left: 3px solid var(--st-done); border-radius: 6px; padding: 0.6rem 0.9rem; margin: 0.8em 0; background: var(--card); }
 .prose .example p:first-child { margin-top: 0; }
+
+/* Clips: gallery cards, frames, lightbox, vault prompt (2026-10-25) */
+.gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 215px), 1fr)); gap: 0.9rem; margin: 0.8rem 0; }
+.vid { margin: 0; background: var(--card); border: 1px solid var(--line); border-radius: 6px; overflow: hidden; display: grid; }
+.vid.pair { grid-column: span 2; } .vid.trio { grid-column: span 3; }
+@media (max-width: 700px) { .vid.pair, .vid.trio { grid-column: auto; } .vid.pair .frames, .vid.trio .frames { grid-template-columns: 1fr; } }
+.vid .frames { display: grid; grid-template-columns: 1fr; gap: 2px; background: var(--line); }
+.vid.pair .frames { grid-template-columns: 1fr 1fr; } .vid.trio .frames { grid-template-columns: 1fr 1fr 1fr; }
+.vid .frame { position: relative; aspect-ratio: 4 / 3; background: var(--code-bg); cursor: zoom-in; overflow: hidden; }
+.vid video { width: 100%; height: 100%; display: block; background: var(--code-bg); object-fit: contain; }
+.vid .vchip { position: absolute; left: 6px; top: 6px; z-index: 1; color: #fff; background: rgba(0,0,0,0.55); border-color: transparent; pointer-events: none; }
+.vid figcaption { padding: 0.45rem 0.7rem 0.6rem; display: grid; gap: 0.1rem; font-size: 0.88rem; }
+.vid figcaption span { color: var(--muted); font-size: 0.78rem; }
+.vault-pending { opacity: 0.6; }
+.vault-failed { outline: 2px solid var(--st-failed); }
+.vault-prompt { position: fixed; right: 1rem; bottom: 1rem; z-index: 30; background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 0.8rem 1rem; box-shadow: 0 8px 24px rgba(0,0,0,0.15); max-width: 22rem; }
+.vault-prompt form { display: grid; gap: 0.5rem; font-size: 0.9rem; }
+.vault-prompt input { font: inherit; padding: 0.4rem 0.6rem; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--fg); }
+.vault-prompt button { font: inherit; padding: 0.4rem 0.8rem; border: 0; border-radius: 6px; background: var(--accent); color: #fff; cursor: pointer; }
+.vault-prompt em { color: var(--muted); font-style: normal; font-size: 0.85rem; min-height: 1em; }
+#lightbox { position: fixed; inset: 0; z-index: 40; background: rgba(10, 12, 14, 0.92); display: grid; grid-template-rows: auto 1fr; padding: 1rem; gap: 0.6rem; }
+#lightbox[hidden] { display: none; }
+#lightbox .bar { display: flex; gap: 0.8rem; align-items: center; color: #e6e7ea; font-size: 0.92rem; }
+#lightbox .bar span { color: #9aa0a8; flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+#lightbox button { font: inherit; font-size: 0.85rem; color: #e6e7ea; background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.2); border-radius: 6px; padding: 0.3rem 0.7rem; cursor: pointer; }
+#lightbox .stage { min-height: 0; display: grid; place-items: center; }
+#lightbox video { max-width: 100%; max-height: 100%; width: auto; height: auto; border-radius: 6px; background: #000; }
+details.sub.nico ul.prose, details.sub.nico ol.prose { padding-left: 1.6rem; margin: 0.2rem 0 0.4rem; }
+/* Nico-layer prose: text stays at reading width, galleries and tables use the full section width. */
+details.sub.nico .prose { max-width: none; }
+details.sub.nico .prose p, details.sub.nico .prose ul, details.sub.nico .prose ol, details.sub.nico .prose h3, details.sub.nico .prose h4, details.sub.nico .prose .example, details.sub.nico .prose blockquote { max-width: 90ch; }
