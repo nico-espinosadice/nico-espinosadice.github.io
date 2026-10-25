@@ -233,3 +233,5 @@ details.sub.nico ul.prose, details.sub.nico ol.prose { padding-left: 1.6rem; mar
 /* Nico-layer prose: text stays at reading width, galleries and tables use the full section width. */
 details.sub.nico .prose { max-width: none; }
 details.sub.nico .prose p, details.sub.nico .prose ul, details.sub.nico .prose ol, details.sub.nico .prose h3, details.sub.nico .prose h4, details.sub.nico .prose .example, details.sub.nico .prose blockquote { max-width: 90ch; }
+/* A paragraph that is only a figure may use the full section width (multi-panel SVGs). */
+details.sub.nico .prose p:has(> img:only-child) { max-width: none; }
