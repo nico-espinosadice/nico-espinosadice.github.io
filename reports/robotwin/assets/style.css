@@ -103,7 +103,7 @@ details.sub.block { border-left: 3px solid var(--accent); }
 .kv .k { color: var(--muted); margin-right: 0.5rem; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.04em; }
 .hub { font-size: 0.9rem; color: var(--muted); }
 .headline { display: flex; gap: 0.8rem; flex-wrap: wrap; margin: 0.5rem 0 1rem; }
-.tile { border: 1px solid var(--line); border-radius: 8px; padding: 0.6rem 0.9rem; min-width: 10rem; }
+.tile { border: 1px solid var(--line); border-radius: 8px; padding: 0.6rem 0.9rem; min-width: 10rem; max-width: 18rem; }
 .tile .v { font-size: 1.5rem; font-weight: 650; font-variant-numeric: tabular-nums; }
 .tile .m { font-size: 0.85rem; }
 .tile .c { font-size: 0.78rem; color: var(--muted); }
@@ -171,3 +171,34 @@ details.sub.group > summary h3 { display: inline; }
 details.sub.group { border-left: 3px solid var(--line); }
 details.sub.group details.sub.run { margin-left: 0.6rem; }
 details.sub > summary .counts { margin: 0; font-size: 0.85rem; }
+
+
+/* Two-layer sections (Nico, 2026-10-25): Nico layer open by default; Claude layer one closed, labelled toggle. */
+details.sub.nico { border-left: 3px solid var(--accent); }
+details.sub.nico > summary h3 { font-size: 1.05rem; }
+.lede { font-size: 1.02rem; max-width: 90ch; margin: 0.2rem 0 0.8rem; }
+details.sub.claude { border: 1px dashed color-mix(in srgb, var(--muted) 60%, transparent); background: color-mix(in srgb, var(--code-bg) 55%, var(--card)); }
+details.sub.claude > summary { color: var(--muted); }
+details.sub.claude > summary h3 { color: var(--muted); font-weight: 600; }
+.tag { display: inline-block; font-family: var(--mono); font-size: 0.66rem; letter-spacing: 0.05em; text-transform: uppercase; color: var(--muted); border: 1px solid currentColor; border-radius: 999px; padding: 0 0.5em; }
+details.sub.claude details.inner > summary h4 { color: var(--fg); }
+table.stand td:nth-child(3) { max-width: 60ch; }
+
+/* Data tables (generic table spec): inline bars like the collaborator's report, numbers tabular. */
+table.data th, table.data td { white-space: nowrap; font-variant-numeric: tabular-nums; }
+table.data td .num { font-variant-numeric: tabular-nums; }
+table.data tfoot td { font-weight: 600; border-top: 2px solid var(--line); }
+.hb { display: flex; align-items: center; gap: 0.5rem; min-width: 8rem; }
+.hb .track { flex: 1; height: 9px; background: var(--line); border-radius: 2px; overflow: hidden; }
+.hb .track span { display: block; height: 100%; background: var(--accent); opacity: 0.85; border-radius: 2px; }
+.hb em { flex: none; width: 3.6ch; text-align: right; font-style: normal; font-size: 0.82rem; color: var(--muted); }
+.hb.prog .track span { background: var(--st-running); }
+.hb.prog.full .track span { background: var(--st-done); }
+.sf { display: flex; align-items: center; gap: 0.5rem; min-width: 8rem; }
+.sf .track { flex: 1; height: 9px; display: flex; border-radius: 2px; overflow: hidden; background: var(--line); }
+.sf .s { background: var(--st-done); } .sf .f { background: #6e5a93; }
+.sf em { flex: none; text-align: right; font-style: normal; font-size: 0.82rem; color: var(--muted); }
+.prose img { max-width: 100%; height: auto; border: 1px solid var(--line); border-radius: 6px; background: #fff; }
+.prose figure { margin: 0.8em 0; } .prose figcaption { font-size: 0.85rem; color: var(--muted); }
+.prose .example { border: 1px solid var(--line); border-left: 3px solid var(--st-done); border-radius: 6px; padding: 0.6rem 0.9rem; margin: 0.8em 0; background: var(--card); }
+.prose .example p:first-child { margin-top: 0; }
