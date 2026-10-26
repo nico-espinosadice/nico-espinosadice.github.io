@@ -235,3 +235,7 @@ details.sub.nico .prose { max-width: none; }
 details.sub.nico .prose p, details.sub.nico .prose ul, details.sub.nico .prose ol, details.sub.nico .prose h3, details.sub.nico .prose h4, details.sub.nico .prose .example, details.sub.nico .prose blockquote { max-width: 90ch; }
 /* A paragraph that is only a figure may use the full section width (multi-panel SVGs). */
 details.sub.nico .prose p:has(> img:only-child) { max-width: none; }
+/* Findings groups: one closed toggle per ### heading inside Results and observations (Nico 2026-10-26). */
+details.finding { margin: 0.6rem 0; background: var(--card); }
+details.finding > summary h4 { margin: 0; display: inline; text-transform: none; letter-spacing: 0; color: var(--fg); font-size: 0.98rem; font-weight: 600; }
+details.finding > .prose > p:first-child { margin-top: 0.4rem; }
