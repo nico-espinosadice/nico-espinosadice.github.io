@@ -1,2 +1,2 @@
-Encrypted build of the RoboTwin campaign reports (robotwin-workspace b2ea3b481926309313e34ff7ba2e30eeb79016b5). Published at https://nico-espinosadice.github.io/reports/robotwin/
+Encrypted build of the RoboTwin campaign reports (robotwin-workspace e8365c7b230b04b25a8d7d76133a48f7ed67b820). Published at https://nico-espinosadice.github.io/reports/robotwin/
 by reports/_build/publish.sh; every HTML page is StatiCrypt ciphertext and every clip under vault/ is AES-GCM ciphertext. Nothing here is meant to be edited.
