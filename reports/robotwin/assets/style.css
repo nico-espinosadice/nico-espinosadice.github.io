@@ -201,10 +201,11 @@ table.data tfoot td { font-weight: 600; border-top: 2px solid var(--line); }
 .hb.prog.full .track span { background: var(--st-done); }
 .sf { display: flex; align-items: center; gap: 0.5rem; min-width: 8rem; }
 .sf .track { flex: 1; height: 9px; display: flex; border-radius: 2px; overflow: hidden; background: var(--line); }
-.sf .s { background: var(--st-done); } .sf .f { background: #6e5a93; }
+.sf .s { background: var(--st-done); } .sf .f { background: #D55E00; } /* success / failure: the status pair of figstyle.py */
 .sf em { flex: none; text-align: right; font-style: normal; font-size: 0.82rem; color: var(--muted); }
 .prose img { max-width: 100%; height: auto; border: 1px solid var(--line); border-radius: 6px; background: #fff; }
 .prose figure { margin: 0.8em 0; } .prose figcaption { font-size: 0.85rem; color: var(--muted); }
+.prose figure.fig { margin: 0.9em 0 1.1em; } .prose figure.fig figcaption { margin-top: 0.4rem; line-height: 1.4; max-width: 90ch; }
 .prose .example { border: 1px solid var(--line); border-left: 3px solid var(--st-done); border-radius: 6px; padding: 0.6rem 0.9rem; margin: 0.8em 0; background: var(--card); }
 .prose .example p:first-child { margin-top: 0; }
 
