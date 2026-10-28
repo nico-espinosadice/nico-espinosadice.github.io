@@ -97,6 +97,11 @@ details.box > summary h2 { margin: 0; font-size: 1.05rem; }
 details.box > *:not(summary), details.sub > *:not(summary) { padding: 0 0.9rem 0.9rem; }
 details.sub.block { border-left: 3px solid var(--accent); }
 .stage { margin-top: 2.4rem; padding-top: 1rem; border-top: 2px solid var(--line); }
+/* Collapsed stages (`stages_collapsed: true`, Nico 2026-10-28): the header is the toggle's summary. */
+details.stage > summary.stagehead { cursor: pointer; list-style: none; }
+details.stage > summary.stagehead::before { content: "\25B8"; color: var(--muted); font-size: 1rem; transition: transform 0.12s; }
+details.stage[open] > summary.stagehead::before { transform: rotate(90deg); }
+details.stage > summary.stagehead a { position: relative; z-index: 1; }
 .stagehead { display: flex; align-items: center; gap: 0.8rem; flex-wrap: wrap; }
 .stagehead h2 { margin: 0; font-size: 1.3rem; }
 .stagehead .wblink { font-size: 0.95rem; }
