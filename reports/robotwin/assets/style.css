@@ -245,3 +245,49 @@ details.sub.nico .prose p:has(> img:only-child) { max-width: none; }
 details.finding { margin: 0.6rem 0; background: var(--card); }
 details.finding > summary h4 { margin: 0; display: inline; text-transform: none; letter-spacing: 0; color: var(--fg); font-size: 0.98rem; font-weight: 600; }
 details.finding > .prose > p:first-child { margin-top: 0.4rem; }
+
+/* Standalone documents (explainers), 2026-10-28. */
+.doc .titleblock h1 { font-size: 1.7rem; max-width: 40ch; line-height: 1.25; }
+.doc-lede { font-size: 1.02rem; margin: 0.6rem 0 1rem; }
+.doc table.pins { max-width: 90ch; margin: 0.6rem 0 1.2rem; }
+.doc-toc { border: 1px solid var(--line); border-radius: 8px; background: var(--card); padding: 0.6rem 1rem 0.8rem; margin: 1rem 0 1.6rem; max-width: 90ch; }
+.doc-toc h4 { margin: 0 0 0.3rem; }
+.doc-toc ol { margin: 0; padding-left: 1.3rem; font-size: 0.92rem; }
+.doc-toc ol ol { font-size: 0.86rem; color: var(--muted); padding-left: 1.1rem; }
+.doc-body h2 { font-size: 1.3rem; margin: 2.2em 0 0.6em; padding-top: 0.6em; border-top: 1px solid var(--line); }
+.doc-body h3 { display: block; font-size: 1.05rem; margin: 1.5em 0 0.4em; }
+.doc-body h4 { text-transform: none; letter-spacing: 0; color: var(--fg); font-size: 0.95rem; margin: 1.2em 0 0.3em; }
+.doc-body p, .doc-body ul, .doc-body ol { max-width: 90ch; }
+.doc-body pre { max-width: none; font-size: 0.82rem; line-height: 1.45; border: 1px solid var(--line); }
+.doc-body .codehilite { margin: 0.7em 0 1em; }
+.doc-body .codehilite pre { margin: 0; }
+.doc-body figure.fig img { max-width: 100%; background: #fff; border-radius: 6px; }
+.doc-body .math.display { overflow-x: auto; padding: 0.3em 0; max-width: 100ch; }
+.doc-body .note { border: 1px solid var(--line); border-left: 3px solid var(--accent); border-radius: 6px; padding: 0.6rem 0.9rem; margin: 0.8em 0; background: var(--card); max-width: 90ch; }
+.doc-body .note p:first-child { margin-top: 0; } .doc-body .note p:last-child { margin-bottom: 0; }
+.doc-body .pitfall { border-left-color: var(--st-blocked); }
+.doc-body .src { font-size: 0.8rem; color: var(--muted); margin: -0.6em 0 1em; }
+.doc-body table { max-width: 110ch; }
+.doc-body dl dt { font-weight: 600; margin-top: 0.6em; } .doc-body dl dd { margin-left: 1.2rem; max-width: 85ch; }
+/* Pygments token colours, light and dark (a compact theme; the classes are Pygments' short names). */
+.codehilite .k, .codehilite .kn, .codehilite .kd, .codehilite .kr, .codehilite .ow { color: #8f3f71; }
+.codehilite .kc, .codehilite .bp { color: #2458c5; }
+.codehilite .s, .codehilite .s1, .codehilite .s2, .codehilite .sa, .codehilite .se, .codehilite .si { color: #1d7a46; }
+.codehilite .sd { color: #6b7079; font-style: italic; }
+.codehilite .c, .codehilite .c1, .codehilite .cm, .codehilite .ch, .codehilite .cs { color: #8a8f98; font-style: italic; }
+.codehilite .nf, .codehilite .fm { color: #2458c5; }
+.codehilite .nc, .codehilite .nn { color: #b25a00; }
+.codehilite .nd { color: #b25a00; }
+.codehilite .mi, .codehilite .mf, .codehilite .mh { color: #1b6ec2; }
+.codehilite .o, .codehilite .p { color: inherit; }
+.codehilite .nb { color: #2458c5; }
+@media (prefers-color-scheme: dark) {
+  .codehilite .k, .codehilite .kn, .codehilite .kd, .codehilite .kr, .codehilite .ow { color: #d8a0e0; }
+  .codehilite .kc, .codehilite .bp, .codehilite .nf, .codehilite .fm, .codehilite .nb { color: #7aa2f7; }
+  .codehilite .s, .codehilite .s1, .codehilite .s2, .codehilite .sa, .codehilite .se, .codehilite .si { color: #7fd99a; }
+  .codehilite .sd { color: #9aa0a8; }
+  .codehilite .c, .codehilite .c1, .codehilite .cm, .codehilite .ch, .codehilite .cs { color: #8a9099; }
+  .codehilite .nc, .codehilite .nn, .codehilite .nd { color: #f2a44a; }
+  .codehilite .mi, .codehilite .mf, .codehilite .mh { color: #9ccbff; }
+  .doc-body figure.fig img { background: #fff; padding: 4px; }
+}
